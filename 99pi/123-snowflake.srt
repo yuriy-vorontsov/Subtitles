@@ -1,6 +1,6 @@
 1
 00:00:00,750 --> 00:00:03,750
-[Roman Mars] This is 99% Invisible. I’m Roman Mars.
+[Roman Mars] This is 99% Invisible! I’m Roman Mars!
 
 2
 00:00:07,000 --> 00:00:10,750
