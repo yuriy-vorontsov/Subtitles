@@ -1,6 +1,6 @@
 1
 00:00:00,750 --> 00:00:03,750
-[Roman Mars] This is 99% Invisible! I’m Roman Mars!
+[Roman Mars] This is 99% Invisible. I’m Roman Mars.
 
 2
 00:00:07,000 --> 00:00:10,750
@@ -879,302 +879,302 @@ So I don’t have to worry about them smelling the Cavicide wipes,
 which is what we use in a dental office.
 
 221
- --> 
+undefined --> undefined
 [Delaney Hall] Melissa also shuts down the x-ray machine, opens the windows,
 
 222
- --> 
+undefined --> undefined
 and turns off the fluorescent lights if patients request it.
 
 223
- --> 
+undefined --> undefined
 [Melissa] As far as polishing teeth, I use plain pumice stone.
 
 224
- --> 
+undefined --> undefined
 So that way they aren’t getting the chemicals.
 
 225
- --> 
+undefined --> undefined
 The other thing we do here in the office is um,
 
 226
- --> 
+undefined --> undefined
 we don’t use fabric softener.
 
 227
- --> 
+undefined --> undefined
 I actually use a natural laundry soap we use, a lot of us do.
 
 228
- --> 
+undefined --> undefined
 No sprays, no smelly lotions, things like that, so. You know,
 
 229
- --> 
+undefined --> undefined
 like I understand it. A lot of them,
 
 230
- --> 
+undefined --> undefined
 they’re really sick because of chemicals and electronics and all sorts of things.
 
 231
- --> 
+undefined --> undefined
 [Delaney Hall] Lots of people are skeptical when they first hear about the illness,
 
 232
- --> 
+undefined --> undefined
 but Melissa just kind of rolled with it. She did research,
 
 233
- --> 
+undefined --> undefined
 she believed her patients complaints,
 
 234
- --> 
+undefined --> undefined
 she even sympathized a little bit.
 
 235
- --> 
+undefined --> undefined
 [Melissa] I remember as a kid I spent in Vermont we went to the Yankee Doodle Candle Factory.
 
 236
- --> 
+undefined --> undefined
 And it was my only experience with a migraine headache,
 
 237
- --> 
+undefined --> undefined
 was smelling all of those smells.
 
 238
- --> 
+undefined --> undefined
 And I don’t have chemical sensitivities,
 
 239
- --> 
+undefined --> undefined
 but being around all of those smells all day long was the worst headache of my life.
 
 240
- --> 
+undefined --> undefined
 So, I equate that with all the time with these poor people.
 
 241
- --> 
+undefined --> undefined
 [Delaney Hall] We’re back on Susan’s porch and she’s looking out over the landscape.
 
 242
- --> 
+undefined --> undefined
 She knows that this community depends on the tolerance and accommodations of people like Melissa.
 
 243
- --> 
+undefined --> undefined
 [Susan Malloy] All it takes is one family building a gas station out there on the road,
 
 244
- --> 
+undefined --> undefined
 and a lot of us would have to move.
 
 245
- --> 
+undefined --> undefined
 [Delaney Hall] In a little while,
 
 246
- --> 
+undefined --> undefined
 Susan has a date with another friend in the community.
 
 247
- --> 
+undefined --> undefined
 She’s going to read him a book,
 
 248
- --> 
+undefined --> undefined
 which means she’ll stand outside his house,
 
 249
- --> 
+undefined --> undefined
 hold the book up to his window, and turn the pages.
 
 250
- --> 
+undefined --> undefined
 He’s too sensitive to let her or even the book itself inside.
 
 251
- --> 
+undefined --> undefined
 It makes life here in Snowflake seem so precarious.
 
 252
- --> 
+undefined --> undefined
 [Susan Malloy] It is fragile and. I know it, and I treasure it for being here at all.
 
 253
- --> 
+undefined --> undefined
 So I am hyper-vigilant about always hoping that nothing’s going to happen to us.
 
 254
- --> 
+undefined --> undefined
 You know,
 
 255
- --> 
+undefined --> undefined
 always hoping that we’re going to keep getting away with this life that we’ve built here.
 
 256
- --> 
+undefined --> undefined
 [Roman Mars] 99% Invisible was produced this week by Delaney Hall from the public radio show 'State of the Reunion.
 
 257
- --> 
+undefined --> undefined
 ’ If you like great stories about places and the communities that people create,
 
 258
- --> 
+undefined --> undefined
 and I’m guessing you do, ’So True’ is the show for you.
 
 259
- --> 
+undefined --> undefined
 Find out more at stateofthereunion.com.
 
 260
- --> 
+undefined --> undefined
 Our show is produced by Sam Greenspan, Katie Mingle, Avery Trufelman,
 
 261
- --> 
+undefined --> undefined
 and me, Roman Mars. We are a project of 91.
 
 262
- --> 
+undefined --> undefined
 7 local public radio KALW in San Francisco and produced of the offices of Arcsine in beautiful downtown,
 
 263
- --> 
+undefined --> undefined
 chemical-free, Oakland, California.
 
 264
- --> 
+undefined --> undefined
 99% Invisible is made possible by our charming and charismatic listeners,
 
 265
- --> 
+undefined --> undefined
 and by the Facebook design team,
 
 266
- --> 
+undefined --> undefined
 who believes that design can bring positive change to the world.
 
 267
- --> 
+undefined --> undefined
 Visit them at Facebook.com/design.
 
 268
- --> 
+undefined --> undefined
 Big support is also provided by Tiny Letter,
 
 269
- --> 
+undefined --> undefined
 e-mail for people with something to say.
 
 270
- --> 
+undefined --> undefined
 My boy Maslow always has something to say.
 
 271
- --> 
+undefined --> undefined
 Usually it’s about the zombie movie he’s going to make. In a word…
 
 272
- --> 
+undefined --> undefined
 [Maslow] There’s an ordinary boy named John.
 
 273
- --> 
+undefined --> undefined
 One day he went to Target with his friends,
 
 274
- --> 
+undefined --> undefined
 but there was a zombie there. Then, everything in his life changed.
 
 275
- --> 
+undefined --> undefined
 [Roman Mars] Coming soon. Tinyletter.com, it's free, easy, minimal and powerful.
 
 276
- --> 
+undefined --> undefined
 The simplest way to send an e-mail newsletter.
 
 277
- --> 
+undefined --> undefined
 From the great people behind MailChimp.
 
 278
- --> 
+undefined --> undefined
 We are a founding member of Radiotopia from PRX,
 
 279
- --> 
+undefined --> undefined
 and on the new episode from our sister program, ‘'Strangers,
 
 280
- --> 
+undefined --> undefined
 ’ Ken comes out as Kenna at age 58.
 
 281
- --> 
+undefined --> undefined
 [Kenna] Who was I going to be talking to in cowboy country Wyoming,
 
 282
- --> 
+undefined --> undefined
 about the fact that I like to wear women’s clothing?
 
 283
- --> 
+undefined --> undefined
 Nobody that I knew. You know, the guys I played softball with? Say,
 
 284
- --> 
+undefined --> undefined
 hey you know, I really like -- yeah, no.
 
 285
- --> 
+undefined --> undefined
 [Roman Mars] The Renaissance Woman, the latest from 'Strangers' from Radiotopia.
 
 286
- --> 
+undefined --> undefined
 You can explore the best podcasts in the world at Radiotopia.
 
 287
- --> 
+undefined --> undefined
 fm or search for 'Radiotopia' in iTunes.
 
 288
- --> 
+undefined --> undefined
 If you want to support this and other shows in Radiotopia,
 
 289
- --> 
+undefined --> undefined
 and why wouldn’t you, really?
 
 290
- --> 
+undefined --> undefined
 You would be reaching the most beautiful, charming,
 
 291
- --> 
+undefined --> undefined
 charismatic listeners in the world. Email sponsor@radiotopia.fm.
 
 292
- --> 
+undefined --> undefined
 If you liked the stories in this show,
 
 293
- --> 
+undefined --> undefined
 you can get more and more and more of it on Facebook,
 
 294
- --> 
+undefined --> undefined
 Twitter and Tumblr, but not 99 PI HQ is at 99PI.org.
 
 295
- --> 
+undefined --> undefined
 [Radiotopia from PRX]
 
