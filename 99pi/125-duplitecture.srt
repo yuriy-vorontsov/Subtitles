@@ -763,7 +763,7 @@ She picked a shelf at the library, at random,
 and read every book on it.
 
 193
- --> 
+00:11:36,500 --> 00:11:36,750
 [Phyllis Rose]
 
 194
