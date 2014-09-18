@@ -1,13 +1,13 @@
 1
- --> 
+00:00:00,750 --> 00:00:07,000
 [Roman Mars] This is 99% Invisible. I'm Roman Mars.
 
 2
- --> 
+00:00:07,000 --> 00:00:10,750
 Since the early 1500's, when Sir Thomas Moore coined the term Utopia,
 
 3
- --> 
+00:00:10,750 --> 
 and probably well before then, people have been thinking about
 
 4
