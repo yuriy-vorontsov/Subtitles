@@ -69,7 +69,7 @@ But it was my invention of the particular symbol and barcode that we see today."
 The symbol selection committee unanimously voted for George Laurer's rectangular symbol and code.
 They called it the Universal Product Code or UPC.
 And a year later, in 1974, a pack of Wrigley's chewing gum became the first item to ever be scanned with the UPC barcode.
-If barcodes hadn't been invented the entire layout and architecture of commerce would have been different. 
+If barcodes hadn't been invented, the entire layout and architecture of commerce would have been different. 
 The impacts are very difficult to overestimate.
 My name is Sanjay Sarma, I'm a professor of mechanical engineering at MIT.
 Sanjay Sarma has also worked with an organization called GS1, that stands for Global Standards One.
