@@ -103,7 +103,7 @@ The guard bars tell the scanner that the code is starting and ending.
 And was something I didn't realize, the scanner is reading both the white and the dark lines.
 "To understand the scanner, just consider yourself in a dark room where the wall behind you has bars painted on it.
 And you took a flashlight and shined it over your head across the bars.
-You would see the room got a little lighter when you were over the white bars, and it would get dark when it was over the dark bars."
+You would see the room get a little lighter when you were over the white bars, and it would get dark when it was over the dark bars."
 Black lines that don't reflect the laser light back to the scanner register as one, white lines equal zero.
 There are actually 95 evenly spaced columns on a UPC barcode.
 A thick black line is actually a bunch of ones right next to each other.
