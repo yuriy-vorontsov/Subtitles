@@ -19,7 +19,7 @@ The grocery business decided that they needed some way to reduce their overhead.
 One of the main places they felt they were losing money was the checkout line.
 "They came up for the idea of having some kind of a scannable code," which would move people more quickly through the line.
 One of the first people that started working on it was an engineer named Joseph Woodland.
-After working on the Manhattan project, Woodland moved on to develop an innovative way to produce elevator music.
+After working on the Manhattan Project, Woodland moved on to develop an innovative way to produce elevator music.
 He was jamming on this project, probably set to make a whole bunch of money, until, and is according to Woodland's New York Times obituary, his father forbid him from getting into the industry because it was controlled by the mob.
 So Woodland moved on, from elevator music to barcodes.
 He was trying to come up with a symbol, that when scanned would translate to a series of numbers that a computer could use to identify a product.
