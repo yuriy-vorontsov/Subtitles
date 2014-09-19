@@ -37,7 +37,7 @@ That was 1948, and then for about 20 years the bullseye idea gathered dust.
 The scanners and other equipment needed to put the system in place were just too expensive for any of it to be feasible.
 Fast-forward to 1973.
 The technology is now a bit more affordable and a group of supermarket executives led by a guy named Alan Haberman are like, "Okay, barcode or bust, we're doing this."
-By that time there were a few other designs out there but none were perfect.
+By that time there were a few other designs out there, but none were perfect.
 So they put together a list of qualities that their ideal barcode would have, and asked 14 different companies to come up with a proposal.
 "Could be no larger than one-and-a, one-and-a-half square inches.
 Had to have a good enough depth of field it could read about a foot and a half above the scanner.
