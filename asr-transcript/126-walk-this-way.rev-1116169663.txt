@@ -17,7 +17,7 @@ They constructed milestones along the roadways.
 
 [RM]: Our producer Sam Greenspan would like to tell you that he has a fantastic sense of direction.
 
-[SG]A : I really do!
+[SG]: I really do!
 Sure I get lost sometimes, I'll admit it.
 It's the worst.
 I get so mad at myself when that happens, but now my life is completely different, ever since I started thinking about what it means that wayfinding is a thing.
@@ -31,6 +31,7 @@ User error does apply sometimes.
 
 [SG]: Fair enough.
 Let me introduce you to Jim Harding.
+
 [JH]: My name is Jim Harding.
 I'm an environmental graphic designer.
 Basically I tell people where to go.
