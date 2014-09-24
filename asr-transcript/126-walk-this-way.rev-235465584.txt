@@ -2,11 +2,25 @@ This is 99% Invisible.
 
 I'm Roman Mars. 
 
-In 2005 I took a job at WBEZ in Chicago, and I was so excited to be moving there. I was excited about the job, of course, but I was also very excited about the grid. 
+In 2005 I took a job at WBEZ in Chicago, and I was so excited to be moving there. 
 
-The streets of Chicago and the address numbering system are beautiful. Starting from the 00 axis point downtown, the streets conform to a rigid grid pattern where the major streets are exactly 1 mile apart, and have address numbers which are in multiples of 800. You don't really have to be able to picture this, but I know that if you know it, you're nodding your head vigorously. But just know that it's amazing, and I was mesmerized by it. So much so that I made flashcards with Chicago street names on one side, and the corresponding address number on the other so that my wife and I could quiz ourselves on the 2000 mile road trip from San Francisco to Chicago. Yes, I was always like this.
+I was excited about the job, of course, but I was also very excited about the grid. 
 
-Division is 1200 N. Armitage is 2000 N., and therefore one mile north of Division. After living in the jumble of San Francisco streets for years, the thought of moving to a place where people planned the city to help people know where they were, and where they were going, soothed my lizard brain and gave me peace. 
+The streets of Chicago and the address numbering system are beautiful. 
+
+Starting from the 00 axis point downtown, the streets conform to a rigid grid pattern where the major streets are exactly 1 mile apart, and have address numbers which are in multiples of 800. 
+
+You don't really have to be able to picture this, but I know that if you know it, you're nodding your head vigorously. 
+
+But just know that it's amazing, and I was mesmerized by it. 
+
+So much so that I made flashcards with Chicago street names on one side, and the corresponding address number on the other so that my wife and I could quiz ourselves on the 2000 mile road trip from San Francisco to Chicago. 
+
+Yes, I was always like this.
+
+Division is 1200 N. Armitage is 2000 N., and therefore one mile north of Division. 
+
+After living in the jumble of San Francisco streets for years, the thought of moving to a place where people planned the city to help people know where they were, and where they were going, soothed my lizard brain and gave me peace. 
 
 As humans have developed cities and built environments, we have also needed to develop ways to find our way through them. Signage goes back at least as far as the Roman Empire. They constructed milestones along the roadways. 
 
@@ -14,7 +28,13 @@ Which is to say, if you rely on anything besides natural features to help you fi
 
 Our producer Sam Greenspan would like to tell you that he has a fantastic sense of direction.
 
-I really do! Sure, I get lost sometimes, I admit it. It's the worst. I get mad at myself when it happens, but now my life is completely different ever since asserted thinking about what it means that wayfinding is a thing. 
+I really do! 
+
+Sure, I get lost sometimes, I admit it. 
+
+It's the worst. 
+
+I get mad at myself when it happens, but now my life is completely different ever since asserted thinking about what it means that wayfinding is a thing. 
 
 Wayfinding, in a sense, is a branch of environmental graphic design concerned with helping people find their way. 
 
