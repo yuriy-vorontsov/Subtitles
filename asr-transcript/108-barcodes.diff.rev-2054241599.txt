@@ -1,0 +1,320 @@
+<p class="MsoNormal" style="mso-pagination: none; mso-layout-grid-align: none; text-autospace: none;"><span lang="EN-US" style="font-size: 16.0pt; font-family: Times; mso-bidi-font-family: Times; mso-ansi-language: EN-US;">This is 99% invisible I'm Roman Mars this sound is unmistak<u>e</u>able maybe you find it kind of lulling <s>Heidi</s><u>like I do since it</u> signifies the end of the trip to the grocery store you<s>'ve</s> found all the things on your list and now you get to just stand there and zone out for a second or flip through a <u>gossip </u>magazine <s>as</s><u>while</u> the checkout person does the work that's our new producer Katie mingle I myself find that sounds a bit<s> </s><u>&nbsp;</u>anxiety inducing since it's also the sound of the total that I'm going to have to pay going up and up and up <u>and up </u>when I go to the grocery store and check out I'm utterly amazed at how well the scanners can read barcodes <s>though</s><u>now</u> I don't tell the checkout people my wife always did <u>that</u> my husband here is one that invented that barcode <s>and </s>they <s>just </s>kind of look at you <s>as if </s>to say yeah <s>I</s><u>you</u> believe that course today they would look at you as if to say you mean there was a time they didn't have a barcode it's hard to imagine now a world without bar<s> </s>codes a world without George Laura hello <u>I'm </u>George J Laura and <u>I'm </u>the one that invented the UPC barcode and symbol in 1973 <s>t </s>now some of <s>the 90</s><u>you might be</u> saying to yourselves <s>on</s><u>I thought</u> Joseph Woodland invented the barcode <u>and </u>if you<u>'re</u> say<u>ing</u> that to yourself you are a nerd and I love you for it <u>and </u>just hold your nerd horses because were getting to Woodland right now it started the way a lot of things <s>to</s><u>with</u> people trying to make more money the grocery business decided that they needed some way to reduce their overhead one of the main places they felt they were losing money was the checkout line they came up <s>for</s><u>with</u> the idea of having some kind of a sca<s>n</s><u>l</u>able code which would move people more quickly through the line one of the first people that <u>started </u>working on it was an engineer named Joseph woodland after working on the Manhattan project woodland moved on to develop <s>an </s>innovative way to produce elevator music <s>i</s><u>he wa</u>s jamming on this project probably set to make a whole bunch of money until <u>and this is </u>according to live in New York Times obituary his father forbid him <u>from </u>getting into the industry because it was controlled by the mob so Woodland moved on from elevator music to barcodes he <s>wa</s><u>i</u>s trying to come up with a symbol that when scanned would translate to a series of numbers <s>and</s><u>that a</u> computer could use to identify a product so one day he<s> wa</s><u>'</u>s sitting on <s>a</s><u>the</u> beach in Miami Florida so the legend goes and woodlands thinking about his days in the Boy Scouts and morse co<s>urs</s><u>d</u>e as one tends to do on the beach <u>and he's kind of </u>absent<u>ly </u>mind<s>e</s><u>i</u>dly drawing in the sand with his fingers when suddenly he looks down he's got it he's dragged his fo<u>u</u>r<s>e</s> fingers through the sand in the shape of concentric circles instead of<s>&hellip; &ndash; &ndash; &ndash;</s><u> dot dot dot dash dash dash</u> He thinks I can use skinny and wide lines bull's-eye bull's eye very first bar<s> </s>codes were in the shape of a bull's eye actually they didn't call them barcodes <u>yet </u>Woodland<u>'</u>s invention was called <s>the</s><u>a</u> classifying apparatus and method I'm really glad <u>that </u>we don't call it that anymore that was 1948 <s>in </s>and<u> then</u> for about 20 years the bull's-eye idea gathered dust the scanners and other equipment needed to put the system in place were just too expensive for any of it to be feasible fast-forward to 1973 the technology is now <s>is </s>a bit more affordable and a group of supermarket executives led by a guy named Alan <s>h</s><u>H</u>ab<s>b</s>erman are like okay bar<u> </u>code or bust we<s> a</s><u>'</u>re doing this <s>by that </s>time there were a few other designs out there but none were perfect so the<u>y</u> put together a list of qualities that their ideal barcode would have and asked 14 different companies to come up with a proposal could be no larger than one and a half square inches had to have <s>a good </s>enough depth of field <s>tha</s><u>i</u>t could read about a foot and a half above the scanner had to be omnidirectional that's George Laura again he was working at IBM at the time which was one of the companies competing to make the best barcode and most people thought that a circular design like Woodlands would probably work best because of the way the scanners worked <s>in th</s><u>m</u>os<s>e</s><u>t</u> days just about every scanner was a single line and you can just picture that if you have a single line and it was going in the direction of the bar it would not read all the bars <s>w</s><u>W</u>oodland's original circular design solved this because it can be read from any direction that meant the checkout person didn't have to take your bag of Cheetos and turn it in just the right way before it could pass over the scanner but George didn't think the bull's-eye symbol wo<s>o</s><u>ul</u>d work I couldn't support that as the solution to what the grocery industry wanted because to me there was no way that it would fulfill their specifications my integrity just would not let me come up with a bunch of bull so George went back to the drawing table my wife said <s>i</s><u>I</u> came back and I w<s>ill</s><u>ould</u> work on it day and night <s>and </s>come back at night <s>and </s>again most of us was thinking arithmetic <s>the </s>trying to prove that this would work also I have to admit I had to disapprove<s>d assembly</s><u> that some of the</u> others wouldn't work he ultimately came up with a rectangular barcode that fit more code into less space which was crucial since grocery manufacturers were already grumbling about having to make room for this new symbol on their packaging <s>tha</s><u>bu</u>t there was still the issue of the one line scanner somehow we got the idea that if <s>we</s><u>you</u> use an x for the scan pattern which could be developed very easily with a pair of mirrors then the barcode c<s>ould</s><u>an</u> be read by the scanner <s>in a</s><u>no</u> matter which way it was oriented as it passed so even though Woodland came up with the original idea of using lines of various widths George Laura did more than just change that shape from a circle to a rectangle <u>he </u>improved on the symbol the code behind the symbol and the scanners that read the symbol even Joe Woodland thought so Joe Woodland was very enthusiastic<u>ally</u> he worked with me in fact he wrote the actual proposal for the submission to the grocery industry but it was my invention of the particular symbol and barcode that we see today the symbol selection committee unanimously voted for George Laura<s>'</s>s rectangular symbol and code they called it the Universal product code or UPC and a year later in 1974 a pack of Wrigley's chewing <u>gum </u>became the first item to ever be scanned <u>with </u>the UPC barcode if barcodes <s>weren't</s><u>hadn't been</u> invented the entire layout and architecture of commerce would<s> ha</s><u>'</u>ve been different the impacts are very difficult to overestimate my name is <s>S</s><u>s</u>anj<s>i S</s><u>ay s</u>arma<s> i</s><u>r I</u>'m a professor of mechanical engineering at MIT Sanj<s>i</s><u>ay</u> Sarma has also worked as an organization called GS1 that stands for global standards <s>1</s><u>one</u> and <u>if </u>you need<u>ed</u> <s>a bar</s><u>by </u>code on your product you have t<s>hrough</s><u>o go to</u> GS<s>1</s> one to get <s>it </s>imagine if telephone numbers weren't standardized right and you <u>din't </u>have area codes two people <s>w</s><u>c</u>ould have the same <s>tele</s>phone number you <s>know it's timeles</s><u>need standard</u>s when barcodes became the standard they didn't just make checkout lines faster they allowed stores to keep track of huge amounts of inventory and to collect data on what we were buying data they could use to keep us coming back for more without barcodes super stores might not exist but equally you know a small store might need more employees to run it it's like the grease that <s>that </s>makes the machine run <s>i</s><u>tha</u>t's one of the key elements of efficiency in our cap<s>i</s><u>a</u>talistic system and when you put it like that you can see why for some people the barcode has come to represent everything they hate about capitalism and consumerism you can get wrapped candies of every kind bubble<u> </u>gum lollipops fun size<u>d</u> candy bars just a <s>dollar 9</s><u>$1.8</u>9 when I was a punk kid if a bands album had a barcode <u>on it they </u>we knew they were <u>a </u>complete sellout<s>s</s> it ain't the barcode<s>'</s>s fault but it's become the symbol or the gl<s>if</s><u>yph</u> of technology we<s>'</s>re afraid <u>of </u>or don't understand or being <s>the</s><u>a</u> cog in a wheel in a larger monolithic machine the matrix if you will oh <s>i</s><u>I</u> will Jerry Whiting <s>M</s><u>m</u>y name is Jerry Whiting I am the founder of Azalea software here in Seattle Washington I've been writing software that prints barcodes for 25 years now the<u>y</u> aren't bad they aren't good the<s>y'</s>re just tools but most people look at them and don't even know where to start so let's demystify for a minute and look at what's inside the barcode again what were talking about here is the UPC barcode that George Laura invented this is the barcode that you and I and everyone in the world has had the most interaction with the UPC barcode is divided into two halves it's actually t<u>w</u>o barcode<s>s</s> sitting right next to each other you can see this visually because there are these longer bars that come down in the middle and on each side those are called the guard bars the guard bars tell the scanner<u>s</u> that <s>the </s>code is starting and ending the left half of the barcode tells you who the manufacturer is <s>in</s><u>and</u> the right half tells you which particular product it is and <u>this </u>was something I didn't realize the scanner is reading both the light and the dark lines to understand the scanner just consider yourself in a dark room where the wall behind you has bars painted on it and you took a flashlight and shined it over your head across the bars you would see the room get a little <s>ligh</s><u>whi</u>ter when you<s>r</s> were over the white bars <s>that</s><u>and</u> it would get dark when it was over the dark bars black lines that don't reflect the laser light back to the scanner register as <s>a </s>one white lines equal zero they're actually 95 evenly spaced columns on a UPC barcode a thick black line is actually a bunch of ones right next to each other the computer adds all that together and <u>you </u>get a string of 12 numbers this number goes to the computer the computer now looks up in it<s>'</s>s table to get the information such as what is the product how much they're charging for it but that is not in the barcode the only thing <s>i</s><u>tha</u>t's in the barcode is where the computer should look this number is also printed below the barcode just in case the scanner isn't working which for me really makes the whole mystery a little anti<s>-</s>climactic I mean it<s>'</s>s right there so when most people until recently thought of barcodes they thought of something that was a combination of bars and stripes more recently two-dimensional barcodes which are they look like crossword puzzles have emerged <s>and</s><u>the</u> most popular being QR barcodes quick response that are scanned by cell phones we've all seen these and maybe <s>if you m</s><u>a few of </u>us<s>t</s> have actually bothered to pull out our cell phones and download the app required to scan them <u>yeah </u>there's something about them that I find <u>kind </u>lame or annoying it's like no Chil<u>l</u>i's I don't want more info on the blooming onion well if you did you might know that the blooming onion<u>s</u> is from outback so anyway I googled why are QR codes lame and I got a bunch of articles basically saying the<u>y a</u>re actually really useful they<s> a</s><u>'</u>re just being misused <s>m</s><u>M</u>ostly by advertisers who<u>'ve</u> just started slapping them on every single thing but Jerry Whiting he still believes in them the nice thing about QR barcodes <s>a</s><u>i</u>s they are not just the lookup number to an external database yes it can be a chunk of text it can be a URL it can be a whole lot of different things but there is no central authority that tells you what or how to do anything meaning you don't have to go through GS<s>1</s> one to get a QR code <s>lack </s>which lets people do stuff like make a giant picture of Amy Goodman's face entirely out of QR code<s>s</s> this is my QR code Amy Goodman portrait made with 2304 unique QR codes that link to nine years of democracy now videos besides the QR code Laura<u>'s</u> and Woodland's original barcodes have spawned a bunch of other barcodes that are used for all sorts of things there's code 128 which is mostly used for packaging and shipping there<s>'</s><u> i</u>s post net which is used by the post office to sort mail there are barcodes that use radio frequencies to send out data <s>they are </s>called RFID tags and they aren't really barcodes at all they just get put in the same category because like barcodes <u>they </u>are being used to keep track of inventory with a grocery cart full of RFID tag items one could conceivably w<s>he</s><u>i</u>el<u>d</u> their car<s>d</s><u>t</u> through a big hoop that would read all the contents all at once basically eliminating the checkout line entirely allowing more people to pass through stores even more quickly <u>so </u>that we can all buy more stuff barcodes help us keep track of prescriptions library books luggage endangered animals there are so many barcodes on so many things that according to Jerry Whiting when future archaeologists come across remnants of our backward ass civilization and they stumble across a barcode they<s> a</s><u>'</u>re going <u>to </u>assign it religious significance if they don't understand the supply chain we had no idea how far it was going to go we thought it would stay just within the grocery industry of course it didn't just stay in the grocery industry it actually went way beyond <u>that </u>all the way to conspiracy there is in fact a silly conspiracy theory that all barcodes have the number of the beast 666 encoded into them yeah it has to do with those guard bars that com<s>e a</s><u>men</u>t the beginning middle and end of every barcode and it's basically true that there are three sixes coded in<u>to</u> the guard bars the answer to why is a bit technical you can read about it on George Laura's personal website in the FAQ section if you want but as exhibit B I submit George himself well hello<s> I',</s> George J Laura after we were done with our interview he was talking a little bit more about his job at IBM and <u>then </u>when I<s> would </s><u>'d</u> come home at night I'd go oh <s>i</s><u>I</u> had a tough day <u>at </u>and my poor wife was taking care of four kids and then he started talking about his wife and <s>his </s>kids she had the hard job she gave up her career which was a teaching career in order to take care of the kids and believe me we are so proud of those kids really <s>the</s><u>ver</u>y are you just couldn't ask for better kids <s>who </s>this is because my wife spent her career raising those kids I'm just so lucky so <u>I don't know </u>does that sound like a <s>s</s><u>S</u>atan worshiper to you guys my daughter has <u>a </u>bachelors degree 99% invisible was produced this week by Kat<s>i</s>e<u>y</u> Mingle with Sam Greenspan Avery Truffleman and me Roman Mars special thanks to Jenny Morgan for production help we are <s>a </s>project of 91.7 local public radio K ALW in San Francisco <s>h</s>and produced <s>in</s><u>at</u> the offices of arc <s>and</s><u>sign a</u> architecture firm in beautiful downtown Oakland California in engineering from Charlotte our youngest son has a PhD support for 99% invisible comes <s>from </s>our flawless listeners if you ha<s>d</s><u>ve</u> one flaw maybe its that you<s> a</s><u>'</u>re a little too perfect work a little too hard and from square space the <s>only</s><u>all in</u> one platform that makes it fast and easy to create your own website or portfolio I ask<u>ed</u> you to send me <u>some </u>your square space created sites <s>in</s><u>and</u> this week it's 5440.com all spelled out with letters they make laser cut wood 3-D topographic maps of these United States <s>t</s><u>s</u>o if you're up late <s>fid</s><u>noo</u>dling<s>&para;</s></span></p>
+<p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--> <!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>RU</w:LidThemeOther>
+  <w:LidThemeAsian>JA</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="276">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--> <!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+table.MsoNormalTable
+	{mso-style-name:"Обычная таблица";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Cambria;}
+</style>
+<![endif]--> <!--StartFragment--> <!--EndFragment--></p>
+<p class="MsoNormal"><span lang="EN-US" style="font-size: 16.0pt; font-family: Times; mso-bidi-font-family: Times; mso-ansi-language: EN-US;">around with AutoCAD and you need a place <u>to </u>display the products of your inspiration <s>go to </s>square space.com and start a free trial and if you decide to purchase use the offer code invisible <u>and save 10% that's squarespace.com and use the offer code invisible </u>square space everything you need to create an exceptional website stalwart support is also provided by tiny letter email for people with something to say my friend Alexis <s>mag</s><u>Madr</u>ical always has something to say what do you have to say Alexis so in Michael Lewis<s>'s</s><u> in</u> new book which is all about high frequency trading computers he basically figures out with the help of his characters how signals travel around <u>in </u>New York and it turns out that they have their own kind of byways and thoroughfares so he says that <u>any </u>trading signal that originated in lower Manhattan went up the <s>lef</s><u>wes</u>t side highway and out the Lincoln tunnel to the other side to Weehawken New Jersey where <s>there </s>was this really particular exchange called <s>b</s><u>B</u>ats that high<s>-</s><u> </u>frequency traders love<u>d</u> the geography of the fiber-optic lines ends up shaping the way that the entire stock market works that's just one of five intriguing things <s>from </s>Alexis Madri<s>g</s><u>c</u>al<u>'</u>s tiny letter newsletter tinyletter.com it's free easy minimal and powerful the simplest way to send an email newsletter from the great people behind <s>m</s><u>M</u>ail <s>c</s><u>C</u>himp we are a founding member of radio <s>topia</s><u>Tokyo</u> from PRX this place called <s>r</s><u>R</u>adio<s>topia</s><u> Tokyo</u> my fantasy<u> </u>land where everything is radio <u>and </u>everything is very good find out how great podcasting can be at radiotopia.fm radiotop<s>i</s>a from PRX is made possible with support from the Knight foundation in a long sponsor <s>m</s><u>M</u>ail <s>c</s><u>C</u>himp who celebrate creativity chaos and teamwork if you are interested in supporting this <s>in</s><u>and</u> other podcast<s>s</s> like it email sponsor<s>@PRX.</s><u> at PRX dot </u>org you can find the show and like the show on Facebook we all tweet you can <s>find </s>us we have a tumbl<u>e</u>r it's fantastic but if you want <s>a</s><u>to</u> link to George Laura's self published autobiography called engineering was fun! <s>g</s><u>G</u>o to 99<s>PI.org</s><u>pi.com</u></span></p>
