@@ -47,6 +47,6 @@ grabbed a few extra packs of double A batteries and...
 [Delaney] I'm just gonna fill up this tub of water.
 
 13
- --> NaN:NaN:NaN,750
+ --> 00:18:08,250
 
 
