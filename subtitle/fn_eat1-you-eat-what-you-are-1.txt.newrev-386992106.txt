@@ -1,9 +1,9 @@
 1
- --> 
+00:00:34,500 --> 00:00:37,250
 Stephen J. DUBNER: The Union Square Greenmarket in New York City,
 
 2
- --> 
+00:00:37,250 --> 
 which was founded in 1976,
 
 3
