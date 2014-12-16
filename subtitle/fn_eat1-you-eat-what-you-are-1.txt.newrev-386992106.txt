@@ -1,0 +1,1872 @@
+1
+ --> 
+Stephen J. DUBNER: The Union Square Greenmarket in New York City,
+
+2
+ --> 
+which was founded in 1976,
+
+3
+ --> 
+is a little agrarian oasis right in the heart of the city,
+
+4
+ --> 
+it’s a throwback to how we used to buy our food.
+
+5
+ --> 
+The writer John McPhee once spent some time in New York’s farmers markets,
+
+6
+ --> 
+selling peppers and writing about how the natives handled, and manhandled, all the fresh food.
+
+7
+ --> 
+Here’s what he wrote:
+
+8
+ --> 
+“You people come into the market—
+
+9
+ --> 
+the Greenmarket, in the open air under the downpouring sun—
+
+10
+ --> 
+and you slit the tomatoes with your fingernails.
+
+11
+ --> 
+With your thumbs, you excavate the cheese.
+
+12
+ --> 
+You choose your stringbeans one at a time.
+
+13
+ --> 
+You pulp the nectarines and rape the sweet corn.
+
+14
+ --> 
+You are something wonderful, you are—people of the city—
+
+15
+ --> 
+and we, who are almost without exception strangers here,
+
+16
+ --> 
+are as absorbed with yoxu as you seem to be with the numbers on our hanging scales.”
+
+17
+ --> 
+That’s from McPhee’s essay called “Giving Good Weight.”
+
+18
+ --> 
+The title refers to the fact that you get your money’s worth at a farmer’s market—
+
+19
+ --> 
+and, more important, that you can look into the eye
+
+20
+ --> 
+and shake the calloused hand of the person who actually grew your food.
+
+21
+ --> 
+So these days, not much has changed at Union Square.
+
+22
+ --> 
+Farmers still rumble in, in the black of the morning.
+
+23
+ --> 
+DUBNER: What’s your drive in the morning?
+
+24
+ --> 
+DAVID: One hundred and fifty-four miles. I left at 2:30 this morning.
+
+25
+ --> 
+I have a 1999 Chevrolet in back of me. I just turned four hundred and eight thousand miles on it.
+
+26
+ --> 
+DUBNER: Whoa.
+
+27
+ --> 
+DUBNER: David Graves owns a farm called Berkshire Berries,
+
+28
+ --> 
+and today he’s selling all sorts of preserves.
+
+29
+ --> 
+DAVID: Raspberry jam, strawberry, onion jam...
+
+30
+ --> 
+DUBNER: Whoa!
+
+31
+ --> 
+DAVID: Also, hot garlic jelly.
+
+32
+ --> 
+DUBNER: And here’s Kelly. She works for Windfall Farms, in upstate New York.
+
+33
+ --> 
+KELLY: We’ve got an assortment of mesclun mix,
+
+34
+ --> 
+we’ve got various micro greens, a micro mix, we do sunflower greens, escarole,
+
+35
+ --> 
+we do edible flowers,
+
+36
+ --> 
+throughout the rest of the year we’ll start bringing in some root vegetables,
+
+37
+ --> 
+uh, carrots, parsnips, turnips, radishes, potatoes, garlic,
+
+38
+ --> 
+pretty much we grow what we like to eat.
+
+39
+ --> 
+DUBNER: And this is Ruby:
+
+40
+ --> 
+RUBY: I represent a small farm upstate called Hudson Valley Duck.
+
+41
+ --> 
+DUBNER: Just walk me through some of your...
+
+42
+ --> 
+RUBY: Well, we have whole duck, duck breasts, duck legs and thighs,
+
+43
+ --> 
+duck prosciutto, applewood smoked duck breast, a rillette,
+
+44
+ --> 
+which is kind of like a rustic style of paté, legs
+
+45
+ --> 
+and thighs that are already confit, which means cooked low and slow
+
+46
+ --> 
+and preserved under a layer of duck fat.
+
+47
+ --> 
+What else do we have? Duck salami, duck bacon.
+
+48
+ --> 
+DUBNER: There’s nothing you can't do with duck!
+
+49
+ --> 
+RUBY: Almost.
+
+50
+ --> 
+DUBNER: So here’s a question for you.
+
+51
+ --> 
+If we assume that the Union Square Greenmarket is a wonderful place —
+
+52
+ --> 
+and it’s hard not to argue that it is a wonderful place —
+
+53
+ --> 
+is it necessarily the model for how we should buy our food today?
+
+54
+ --> 
+In other words, do we need to go fully rustic in order to get good?
+
+55
+ --> 
+And yes, we do need to get good.
+
+56
+ --> 
+Because while there are many fantastic things to be said about food in modern America,
+
+57
+ --> 
+there’s a lot of room for improvement.
+
+58
+ --> 
+The economist Tyler Cowen,
+
+59
+ --> 
+who’s not a curmudgeon, not by any stretch,
+
+60
+ --> 
+says we are in the middle of a food crisis.
+
+61
+ --> 
+Or at least a food paradox:
+
+62
+ --> 
+Tyler COWEN: If you are a foodie today you have more options than ever before.
+
+63
+ --> 
+But there’s also more bad food than ever before.
+
+64
+ --> 
+There’s more obesity. There’s more junk food.
+
+65
+ --> 
+And you see the food world;
+
+66
+ --> 
+it’s getting a lot worse and a lot better at the same time.
+
+67
+ --> 
+That’s one way to think about the crisis.
+
+68
+ --> 
+[THEME]
+
+69
+ --> 
+ANNOUNCER: From WNYC and APM, American Public Media:
+
+70
+ --> 
+This is Freakonomics Radio, the podcast
+
+71
+ --> 
+that explores the hidden side of everything.
+
+72
+ --> 
+Here’s your host, Stephen Dubner.
+
+73
+ --> 
+DUBNER: Today we’re talking about everybody’s favorite subject: food.
+
+74
+ --> 
+We like talking about food so much, in fact,
+
+75
+ --> 
+that we’ve made a two-part podcast.
+
+76
+ --> 
+In this first episode, we’ll talk about what’s wrong with food in America,
+
+77
+ --> 
+how it got that way, and how it can get better.
+
+78
+ --> 
+In the next episode we’ll look at whether eating local is the path to salvation.
+
+79
+ --> 
+For now, let’s get back to Tyler Cowen.
+
+80
+ --> 
+He’s an economist at George Mason University
+
+81
+ --> 
+who also happens to be a serious chowhound.
+
+82
+ --> 
+His latest book is called An Economist Gets Lunch: New Rules for Everyday Foodies.
+
+83
+ --> 
+While economics and food might seem like a pair of ingredients that shouldn’t be mixed,
+
+84
+ --> 
+Cowen points out that the two have in fact long been aligned:
+
+85
+ --> 
+COWEN: If you read the early economists like Adam Smith, or Frederic Bastiat,
+
+86
+ --> 
+they were obsessed with food and food markets.
+
+87
+ --> 
+A lot of early economics, it is a theory of food and the food supply,
+
+88
+ --> 
+because at that time food was a very large percentage of national economies.
+
+89
+ --> 
+It was an important issue.
+
+90
+ --> 
+People could die or starve if the harvest didn’t go well.
+
+91
+ --> 
+So economics and food have been intimately related really from the beginning.
+
+92
+ --> 
+And I’m trying to put food back in the centerpiece of economics.
+
+93
+ --> 
+DUBNER: Cowen has a popular economics blog, called Marginal Revolution,
+
+94
+ --> 
+and a separate blog called Tyler Cowen’s Ethnic Dining Guide.
+
+95
+ --> 
+He has lots of rules for finding the best restaurant meals.
+
+96
+ --> 
+For instance: Cheap food is usually better than expensive food,
+
+97
+ --> 
+especially when you find it in a strip mall or at a food truck.
+
+98
+ --> 
+Here’s another Cowen rule:
+
+99
+ --> 
+if you come across what Cowen calls an “ugly and unknown” item on the menu, order it.
+
+100
+ --> 
+One more Cowen rule:
+
+101
+ --> 
+while you might be drawn to a restaurant full of good-looking, happy people, avoid it.
+
+102
+ --> 
+People who are serious about food generally don’t look that way.
+
+103
+ --> 
+And last of all: don’t be a food snob.
+
+104
+ --> 
+Food snobs, Cowen says, are messing up everything.
+
+105
+ --> 
+They place too much emphasis on expensive food or trendy food, or:
+
+106
+ --> 
+COWEN: There’s another kind of food snob
+
+107
+ --> 
+where everything has to be like a farmer’s market,
+
+108
+ --> 
+everything has to be sustainable,
+
+109
+ --> 
+everything has to be in some way modest or geared down, or hippie-like.
+
+110
+ --> 
+DUBNER: As Cowen sees it,
+
+111
+ --> 
+too many people spend too much energy worrying about their own pet preferences,
+
+112
+ --> 
+which takes focus away from the real problems.
+
+113
+ --> 
+And there are real problems.
+
+114
+ --> 
+For instance, about 15 percent of Americans are said to be “food insecure,”
+
+115
+ --> 
+meaning they don’t have enough to eat.  And 35 percent are obese.
+
+116
+ --> 
+Our number one cause of death is heart disease,
+
+117
+ --> 
+and it’s quite likely that a lot of things we eat contribute to that.
+
+118
+ --> 
+Added to this mix is the fact that we’re only now slowly crawling out of a long, bad food rut.
+
+119
+ --> 
+COWEN: I think there’s a very bad period for American food.
+
+120
+ --> 
+It runs something like 1910 through maybe the 1980s.
+
+121
+ --> 
+And that’s the age of the frozen TV dinner, of the sugar donut,
+
+122
+ --> 
+of fast food, of the chain, and really a lot of it’s not very good.
+
+123
+ --> 
+If you go back to the nineteenth century
+
+124
+ --> 
+and you read Europeans who come to the United States,
+
+125
+ --> 
+they’re really quite impressed by the freshness and variety of what is on offer.
+
+126
+ --> 
+But we went a very particular route in our food world,
+
+127
+ --> 
+and for a good seventy or eighty years we had some of the worst food in the developed world,
+
+128
+ --> 
+and that’s the hole we’ve been trying to climb out of.
+
+129
+ --> 
+DUBNER: The conventional reason that’s given for why our food got bad
+
+130
+ --> 
+is that we were victims of our own success:
+
+131
+ --> 
+COWEN: It’s the notion that we did agribusiness first,
+
+132
+ --> 
+we did long-scale, long-distance transportation first,
+
+133
+ --> 
+we commercialized everything first, and we got junk food, and chains,
+
+134
+ --> 
+and bad supermarkets because of commercialization.
+
+135
+ --> 
+That’s the standard story.
+
+136
+ --> 
+DUBNER: But that’s not the whole story, Cowen says.
+
+137
+ --> 
+There are specific, overlooked, moments in history that hurt the way we eat.
+
+138
+ --> 
+ANNOUNCER: In 1924, a law was passed to restrict immigration
+
+139
+ --> 
+from countries outside the Western hemisphere.
+
+140
+ --> 
+COWEN: So the mid 1920s, the first thing we do is we choke off immigration,
+
+141
+ --> 
+which is just going to kill off the quality of our food.
+
+142
+ --> 
+Like, imagine current American dining without immigration.
+
+143
+ --> 
+DUBNER: The culinary stagnation caused by immigration policy ran straight into the Great Depression:
+
+144
+ --> 
+COWEN: That doesn’t help the restaurant trade either;
+
+145
+ --> 
+it doesn’t help dining out.
+
+146
+ --> 
+DUBNER: And that coincided with another downward force on good food:
+
+147
+ --> 
+COWEN: Prohibition, which puts out of business a lot of the best restaurants.
+
+148
+ --> 
+DUBNER: As Cowen sees it, restaurants were seedbeds of innovation,
+
+149
+ --> 
+but during Prohibition, some of the best restaurants were forced to shut down
+
+150
+ --> 
+since they couldn’t survive without alcohol sales.
+
+151
+ --> 
+Now, interestingly, the overall number of restaurants in the U.S. tripled between 1919 and 1929,
+
+152
+ --> 
+but they weren’t the kind of restaurants that a food lover would love.
+
+153
+ --> 
+COWEN: What you get are more diners, more fast food shops, more just ordinary food.
+
+154
+ --> 
+Food is much more for children.
+
+155
+ --> 
+Children, I’m sorry to say, they don’t have great taste in food.
+
+156
+ --> 
+They like soft, they like sweet, they like Wonder Bread.
+
+157
+ --> 
+COWEN: So American food becomes more food for children.
+
+158
+ --> 
+DUBNER: So the American food scene became a bit of a kindergarchy,
+
+159
+ --> 
+with a surge in family-friendly restaurants —
+
+160
+ --> 
+much more so than in other countries.
+
+161
+ --> 
+DUBNER: Another turning point for American food: World War II.
+
+162
+ --> 
+ANNOUNCER: On this 1,048th day of American democracy
+
+163
+ --> 
+at war against the foes of freedom,
+
+164
+ --> 
+we bring you our mayor, the Honorable F.H. LaGuardia,
+
+165
+ --> 
+speaking to you from his desk in City Hall in another talk to the people.
+
+166
+ --> 
+Ladies and gentlemen, his honor, the Mayor.
+
+167
+ --> 
+MAYOR LAGUARDIA: Patience and fortitude.
+
+168
+ --> 
+DUBNER: New York City. January 28, 1945.
+
+169
+ --> 
+MAYOR LAGUARDIA: I want to talk to you today both about the meat situation...
+
+170
+ --> 
+COWEN: People still wanted to eat meat; meat wouldn’t always be fresh.
+
+171
+ --> 
+MAYOR LAGUARDIA: You take the neck, for instance. Betty,
+
+172
+ --> 
+get me the bones so that I can describe it better.
+
+173
+ --> 
+Now here I have one. Let me describe it to you.
+
+174
+ --> 
+The piece that I have in my hands has been boned,
+
+175
+ --> 
+but there is a real good supply of meat in it.
+
+176
+ --> 
+If you would want to take a cleaver and break it into smaller pieces,
+
+177
+ --> 
+it would make a good stew and gravy with potatoes or dumplings
+
+178
+ --> 
+and the children would like it.
+
+179
+ --> 
+DUBNER: Strangely enough,
+
+180
+ --> 
+Tyler Cowen says, U.S. meat consumption didn’t decline during World War II.
+
+181
+ --> 
+But it wasn’t the same meat as they were eating before …
+
+182
+ --> 
+COWEN: People ate a lot of Spam.
+
+183
+ --> 
+It’s a canned good; it doesn’t taste very good.
+
+184
+ --> 
+What we did in wartime was gear up our production of everything.
+
+185
+ --> 
+We had to produce a lot, including food, very quickly
+
+186
+ --> 
+and have it be produced in a form that could be stored.
+
+187
+ --> 
+And we made our beef and our pork and everything else just not nearly as good.
+
+188
+ --> 
+DUBNER: World War II forced us to excel at industrializing our food
+
+189
+ --> 
+and transporting it long distances.
+
+190
+ --> 
+Once the war was over, we kept going in this direction.
+
+191
+ --> 
+This industrialization trend was eventually met by another trend:
+
+192
+ --> 
+a flood of women in the workforce—which, it turns out,
+
+193
+ --> 
+furthered our appetite for processed, readily available food.
+
+194
+ --> 
+COWEN: You want foods that are easy to handle, quick to heat or reheat,
+
+195
+ --> 
+somehow very convenient and not necessarily the best foods.
+
+196
+ --> 
+Women have started working,
+
+197
+ --> 
+they have less time in the kitchen,
+
+198
+ --> 
+but you don’t yet have all the innovations you have today.
+
+199
+ --> 
+And what you see happening is as two-earner couples
+
+200
+ --> 
+and television spread across the world,
+
+201
+ --> 
+food ways change and in some ways decline at first,
+
+202
+ --> 
+and it takes a while for markets to adjust to that.
+
+203
+ --> 
+DUBNER: You write,
+
+204
+ --> 
+“Quick and microwaveable meals were developed by bacteriologists rather than chefs.”
+
+205
+ --> 
+Not a good thing.
+
+206
+ --> 
+You write, “Television enabled advertising and homogeneous national brands to emerge.”
+
+207
+ --> 
+So Tyler, when I read that and when I hear you talk now,
+
+208
+ --> 
+you sound quite convincingly like the standard kind of food snob.
+
+209
+ --> 
+I mean you personally are quite dismissive of bad food, correct?
+
+210
+ --> 
+Am I right, or no?
+
+211
+ --> 
+COWEN: Correct.
+
+212
+ --> 
+DUBNER: You put a lot of effort into eating food
+
+213
+ --> 
+that you really want to eat, correct?
+
+214
+ --> 
+COWEN: It’s fun, not effort, but correct.
+
+215
+ --> 
+DUBNER: And yet you’re also against what you call ‘food snobbery.’
+
+216
+ --> 
+You write, “That food snobbery is killing entrepreneurship and innovation.”
+
+217
+ --> 
+And that, “Food snobs are right that local food tastes better,
+
+218
+ --> 
+but they’re wrong that it’s better for the environment,
+
+219
+ --> 
+and they’re wrong that cheap food is bad food.”
+
+220
+ --> 
+So, okay, you do a great impression at first listen at least of a food snob.
+
+221
+ --> 
+But then talk to me about where you and they split.
+
+222
+ --> 
+COWEN: There are a lot of different issues in what you bring up,
+
+223
+ --> 
+but let me just give you a few traits of food snobs
+
+224
+ --> 
+that I would differ from.
+
+225
+ --> 
+I think agribusiness and consumerism are seen as the great villains.
+
+226
+ --> 
+I think both are essential, we can’t do without them.
+
+227
+ --> 
+They feed the seven billion people in the world.
+
+228
+ --> 
+We do need to improve them,
+
+229
+ --> 
+but I would work on improving them through innovation.
+
+230
+ --> 
+The biggest food problem in the world today
+
+231
+ --> 
+is that agricultural productivity is slowing down
+
+232
+ --> 
+and for a lot of the world food prices are going up.
+
+233
+ --> 
+And for that we need more business, technology and innovation, not locavorism.
+
+234
+ --> 
+DUBNER: Coming up...
+
+235
+ --> 
+if we assume that this messy food system of ours needs fixing,
+
+236
+ --> 
+what are the solutions?
+
+237
+ --> 
+Alice WATERS: I think that the work of the farmer,
+
+238
+ --> 
+it needs to be elevated to a very important and vital place.
+
+239
+ --> 
+DUBNER: And, what does dinner look like tonight?
+
+240
+ --> 
+DUBNER: I’m curious, Michael,
+
+241
+ --> 
+what are you going to have for dinner tonight, do you know yet?
+
+242
+ --> 
+Michael POLLAN: You know, I don’t know
+
+243
+ --> 
+because I’m going to a restaurant.
+
+244
+ --> 
+DUBNER: What kind of restaurant?
+
+245
+ --> 
+POLLAN: I’m going to Chez Panisse.
+
+246
+ --> 
+DUBNER: I’m going to a restaurant.
+
+247
+ --> 
+[UNDERWRITING]
+
+248
+ --> 
+ANNOUNCER: From WNYC and APM, American Public Media,
+
+249
+ --> 
+this is Freakonomics Radio. Here’s your host, Stephen Dubner.
+
+250
+ --> 
+DUBNER: Michael Pollan is a writer
+
+251
+ --> 
+who has become a kind of national food philosopher.
+
+252
+ --> 
+He says a lot of our food problems are due to what’s called
+
+253
+ --> 
+“the omnivore’s dilemma,”
+
+254
+ --> 
+which is also the title of one of his books.
+
+255
+ --> 
+POLLAN: The phrase “the omnivore’s dilemma” is an anthropological term
+
+256
+ --> 
+for a, um, an omnivore that can eat so many different things,
+
+257
+ --> 
+some of which is not good for you, some of which will kill you,
+
+258
+ --> 
+and deciding between what is good and what is bad
+
+259
+ --> 
+is a big part of why we have these giant brains we have.
+
+260
+ --> 
+And that anxiety, you know, afflicts us.
+
+261
+ --> 
+It doesn’t afflict the cow or the koala.
+
+262
+ --> 
+I mean, they eat that one thing,
+
+263
+ --> 
+and if it’s not that one thing, it’s not lunch.
+
+264
+ --> 
+And things are pretty simple and you don’t need a big brain
+
+265
+ --> 
+you just need a big stomach to digest all those leaves.
+
+266
+ --> 
+And so it’s part of our existential predicament to worry
+
+267
+ --> 
+first do we have enough food and second do we have the right food.
+
+268
+ --> 
+DUBNER: I guess the clichéd way to ask this question would be
+
+269
+ --> 
+if you, Michael Pollan, were king of the day, or food czar for the day,
+
+270
+ --> 
+or agriculture secretary for a year, God forbid for your sake
+
+271
+ --> 
+that you’d have to do that job, it’d be miserable.
+
+272
+ --> 
+POLLAN: And for the nation’s sake.
+
+273
+ --> 
+DUBNER: But, okay,
+
+274
+ --> 
+so you’ve spent a lot of time thinking about the problems
+
+275
+ --> 
+that have come to exist and how they’ve come to exist,
+
+276
+ --> 
+but start to talk about some solutions from the production side,
+
+277
+ --> 
+not yet from the consumer side, but from the production side.
+
+278
+ --> 
+POLLAN: Sure, well I think
+
+279
+ --> 
+one of the most important things to do is to diversify our agriculture.
+
+280
+ --> 
+You know, we’re growing vast amounts of corn and soybeans,
+
+281
+ --> 
+these commodity crops that we heavily subsidize the planting of.
+
+282
+ --> 
+And it’s too much of a good thing, or too much of a so-so thing.
+
+283
+ --> 
+And that we should devise mechanisms in our agricultural policy
+
+284
+ --> 
+that reward farmers for having more than one or two crops,
+
+285
+ --> 
+because the more different crops they have,
+
+286
+ --> 
+the less need they’ll have for fertilizers,
+
+287
+ --> 
+which are, you know, huge fossil fuel burners,
+
+288
+ --> 
+the less need they’d have for, you know,
+
+289
+ --> 
+toxic chemicals and weed control problems,
+
+290
+ --> 
+and it would allow us to diversify our diet on the consuming end.
+
+291
+ --> 
+Because one of our problems with diet, too, is monoculture.
+
+292
+ --> 
+We eat just too much of a very small handful of not very good for us things
+
+293
+ --> 
+like sugar and high fructose corn syrup.
+
+294
+ --> 
+So, so I guess I would try to figure out a way to get farmers to diversify
+
+295
+ --> 
+and that’s not easy by any means
+
+296
+ --> 
+because mechanization pushes you in exactly the opposite direction.
+
+297
+ --> 
+DUBNER: Talk to me for a minute about the subsidy part,
+
+298
+ --> 
+which I know you’ve written about a lot.
+
+299
+ --> 
+You say that we’re over-reliant on things like soybean and corn
+
+300
+ --> 
+and we use it in anything and everything to our dietary detriment. But…
+
+301
+ --> 
+POLLAN: Well, yeah,
+
+302
+ --> 
+because those crops are really the building blocks of fast food.
+
+303
+ --> 
+You’ve got the high fructose corn syrup coming of the corn,
+
+304
+ --> 
+and you have the hydrogenated oils coming out the soy.
+
+305
+ --> 
+And right there you’ve got a fast food meal.
+
+306
+ --> 
+DUBNER: But persuade me that that’s not just what the public wants to eat
+
+307
+ --> 
+and that the market wants to buy and sell.
+
+308
+ --> 
+In other words, talk to me about how this isn’t the way a market’s working,
+
+309
+ --> 
+this is the way a government-subsidized market is working.
+
+310
+ --> 
+POLLAN: Well, the reason that we subsidize those crops
+
+311
+ --> 
+is not because people wanted to eat them, necessarily.
+
+312
+ --> 
+Nobody actually thought to eat soy or any byproducts of soy,
+
+313
+ --> 
+and hydrogenated soy oil and high fructose corn syrup were not things
+
+314
+ --> 
+that anybody was clambering for.
+
+315
+ --> 
+They actually grew out of an overproduction.
+
+316
+ --> 
+And one of the geniuses of capitalism is
+
+317
+ --> 
+when you have too much of something that nobody wants
+
+318
+ --> 
+you’ll figure out how to trick it into a form
+
+319
+ --> 
+where people will eat it or buy it.
+
+320
+ --> 
+So overproduction breeds ingenuity, also.
+
+321
+ --> 
+And why did we have overproduction?
+
+322
+ --> 
+One of the reasons is that we subsidize these crops.
+
+323
+ --> 
+And one of the reasons that we subsidize them
+
+324
+ --> 
+is that it’s easier to subsidize storable commodities
+
+325
+ --> 
+than it is things like broccoli or carrots. If you want to…
+
+326
+ --> 
+I mean, the history of subsidies is very complicated
+
+327
+ --> 
+because we began trying to support prices basically
+
+328
+ --> 
+and keep farmers in business.
+
+329
+ --> 
+That’s what we did during the Depression
+
+330
+ --> 
+because the price of things like corn had fallen essentially to zero.
+
+331
+ --> 
+People think, you know, we did it
+
+332
+ --> 
+because we didn’t have enough food in the depression.
+
+333
+ --> 
+Actually we had plenty of food in the depression,
+
+334
+ --> 
+we didn’t have enough money to buy it
+
+335
+ --> 
+and the farmers were going out of business.
+
+336
+ --> 
+And so we started, you know,
+
+337
+ --> 
+with various systems to support the price of corn, and soy, and some other storable commodities.
+
+338
+ --> 
+Over time, the point of these subsidies changed,
+
+339
+ --> 
+during the Nixon Administration in particular,
+
+340
+ --> 
+to force down the price of commodities rather than to hold it up.
+
+341
+ --> 
+And that was a radical change,
+
+342
+ --> 
+and it had the effect of leading to this vast overproduction.
+
+343
+ --> 
+Now, I said that it’s harder to subsidize vegetables, and it is.
+
+344
+ --> 
+And the reason being that if you subsidize something
+
+345
+ --> 
+you tend to get these waves of overproduction.
+
+346
+ --> 
+But with corn, and soy, and rice, and wheat, and cotton,
+
+347
+ --> 
+it’s not a big problem because you can put it in a silo
+
+348
+ --> 
+and store it for three to five years.
+
+349
+ --> 
+So if you’ve got too much of it you can, you know,
+
+350
+ --> 
+put it in the bank in effect.
+
+351
+ --> 
+If you do that with vegetables you have this rotting compost.
+
+352
+ --> 
+I mean, you just can’t have overproductions of broccoli without,
+
+353
+ --> 
+you know, having a disaster, stinking disaster.
+
+354
+ --> 
+So to the extent that the government wanted to play
+
+355
+ --> 
+this role in the food system of either supporting farmers,
+
+356
+ --> 
+or driving down the cost of food, commodity crops,
+
+357
+ --> 
+grain is how you do it.
+
+358
+ --> 
+And there are also, they underlie so many other things
+
+359
+ --> 
+because you feed grain to animals.
+
+360
+ --> 
+So you’re supporting animal agriculture too, indirectly;
+
+361
+ --> 
+you’re subsidizing feedlots.
+
+362
+ --> 
+And, you know, all this made sense, and it achieved some goals,
+
+363
+ --> 
+but it had a lot of unintended consequences.
+
+364
+ --> 
+And one was since these were the crops
+
+365
+ --> 
+that you got paid for you planted as much of them as you can.
+
+366
+ --> 
+And there were, you know, fewer limits on how much you could plant.
+
+367
+ --> 
+Once upon a time, the government, in exchange for supporting you, said, okay,
+
+368
+ --> 
+you can grow this much corn and that’s it
+
+369
+ --> 
+because they were very concerned about overproduction.
+
+370
+ --> 
+DUBNER: What do you think would happen if, and this could not happen,
+
+371
+ --> 
+but what do you think would happen
+
+372
+ --> 
+if the federal government removed all crop subsidies overnight?
+
+373
+ --> 
+POLLAN: It’s a really interesting question, and it is hypothetical
+
+374
+ --> 
+because it would bring down the banking system, you know, overnight,
+
+375
+ --> 
+so the Fed would not allow it to happen.
+
+376
+ --> 
+There’s so much debt on farms every year, you know,
+
+377
+ --> 
+trillions of dollars that farmers take out to plant,
+
+378
+ --> 
+and those depend on that check coming from the government.
+
+379
+ --> 
+That’s, you know, your proof that you’re going to be able to pay it back.
+
+380
+ --> 
+So it would be a disaster for the banking system.
+
+381
+ --> 
+And from everything that I’ve been able to learn
+
+382
+ --> 
+it might not even work to undo the system that we have.
+
+383
+ --> 
+DUBNER: Okay, so let’s…Let me ask you to take a step back
+
+384
+ --> 
+and let’s think away from agriculture itself for a minute
+
+385
+ --> 
+and think about, you know, eating. I’m curious, Michael,
+
+386
+ --> 
+what are you going to have for dinner tonight, do you know yet?
+
+387
+ --> 
+POLLAN: You know, I don’t know because I’m going to a restaurant.
+
+388
+ --> 
+DUBNER: What kind of restaurant?
+
+389
+ --> 
+POLLAN: I’m going to Chez Panisse.
+
+390
+ --> 
+DUBNER: I’m going to a restaurant.
+
+391
+ --> 
+POLLAN: Yeah, and I am…Well just to the café upstairs.
+
+392
+ --> 
+So I don’t know what I’m going to have actually. I’m being taken to dinner.
+
+393
+ --> 
+DUBNER: Ok, so I pulled up the menu here.
+
+394
+ --> 
+POLLAN: What do they have?
+
+395
+ --> 
+DUBNER: So dinner menu for tonight looks like
+
+396
+ --> 
+we’ve got some six Hog Island sweet water oysters on the half shell with mignonette.
+
+397
+ --> 
+I don’t know what mignonette means.
+
+398
+ --> 
+POLLAN: It’s a little vinegar with some shallots in it.
+
+399
+ --> 
+DUBNER: Thank you.
+
+400
+ --> 
+Then a grilled Belgian endive with pancetta, rosemary, and egg.
+
+401
+ --> 
+Squash hummus with shaved fennel and pickled cauliflower.
+
+402
+ --> 
+Celery root and rocket salad with crème fraiche and beets.
+
+403
+ --> 
+A house-made rigatoni with Llano Seco Ranch pork ragu.
+
+404
+ --> 
+POLLAN: Oh, man, you’re making me hungry, Stephen.
+
+405
+ --> 
+DUBNER: And then a bowl of Churchill-Brenneis Orchards page mandarins
+
+406
+ --> 
+and Flying Disc Ranch dates.
+
+407
+ --> 
+POLLAN: Yeah, well you see that one of the things that Chez pioneered doing
+
+408
+ --> 
+was telling you where the food came from
+
+409
+ --> 
+and putting the names of the farmers, which has become, you now,
+
+410
+ --> 
+almost an obnoxious cliché in a lot of restaurants,
+
+411
+ --> 
+but I actually think it was a very salutary development.
+
+412
+ --> 
+That you know, one of the things we need to do in this country  is raise the prestige of farming,
+
+413
+ --> 
+and recognize the work that good farmers do,
+
+414
+ --> 
+which is really important to us.
+
+415
+ --> 
+We depend on them, and yet they’re for most of us totally anonymous.
+
+416
+ --> 
+WATERS: I do really believe that...
+
+417
+ --> 
+DUNBER: That’s Alice Waters herself,
+
+418
+ --> 
+the owner of Chez Panisse in Berkeley, California,
+
+419
+ --> 
+where Michael Pollan is going for dinner tonight.
+
+420
+ --> 
+WATERS: I think that the work of the farmer,
+
+421
+ --> 
+it needs to be elevated to a very important and vital place,
+
+422
+ --> 
+and we need to consider the people who take that on as precious
+
+423
+ --> 
+as the people who educate us in the schools.
+
+424
+ --> 
+And when that happens, when we begin to value our farmers,
+
+425
+ --> 
+you’d be surprised how many people will answer that call,
+
+426
+ --> 
+who will really be encouraged to take on that profession.
+
+427
+ --> 
+It’s happening already, just among young people
+
+428
+ --> 
+who are concerned about the future of this planet,
+
+429
+ --> 
+and know that we’re headed to a dead end
+
+430
+ --> 
+if we don’t think about where our food comes from
+
+431
+ --> 
+and take care of that land that produces our food.
+
+432
+ --> 
+DUBNER: So here we are: back to the farm, and the farmer.
+
+433
+ --> 
+You could call it the go-small-or-go-home food movement,
+
+434
+ --> 
+with its emphasis on eating local at any expense.
+
+435
+ --> 
+Tyler Cowen, the foodie economist we heard from earlier,
+
+436
+ --> 
+he does not see this as any kind of broad solution:
+
+437
+ --> 
+COWEN: I would say there is a better food philosophy.
+
+438
+ --> 
+I think locavores like most people mean well.
+
+439
+ --> 
+You know, we’re all imperfect.
+
+440
+ --> 
+We all do things and hold views for reasons which are not totally rational.
+
+441
+ --> 
+And the purpose is to have some kind of dialogue
+
+442
+ --> 
+and get us to a better place.
+
+443
+ --> 
+DUBNER: On the next installment of Freakonomics Radio,
+
+444
+ --> 
+we’ll continue this conversation.
+
+445
+ --> 
+And we’ll keep looking for a better place.
+
+446
+ --> 
+We’ll talk about locavorism, and run some numbers.
+
+447
+ --> 
+Some of them will surprise you:
+
+448
+ --> 
+David CLEVELAND: This is what really shocked us is we found that
+
+449
+ --> 
+when you added up all these different ways in which locally grown produce got to people in Santa Barbara County
+
+450
+ --> 
+we found that less than five percent of the fruits and vegetables
+
+451
+ --> 
+consumed in Santa Barbara County were actually grown in Santa Barbara County.
+
+452
+ --> 
+And the other ninety-five percent were imported.
+
+453
+ --> 
+Ed GLAESER: And we certainly are right to worry a lot
+
+454
+ --> 
+about whether or not our food is fresh, and good, and tasty.
+
+455
+ --> 
+But I just keep coming back to feeling a certain amount of satisfaction
+
+456
+ --> 
+that I’m eating grapes that are keeping up the standard of living in Chile.
+
+457
+ --> 
+DUBNER: As for me, for dinner tonight … sure,
+
+458
+ --> 
+I’d love to sit down with Michael Pollan at Chez Panisse
+
+459
+ --> 
+for some house-made rigatoni with Llano Seco Ranch pork ragu.
+
+460
+ --> 
+But that’s in California. I’m in New York.
+
+461
+ --> 
+Still, I think I will go local tonight.
+
+462
+ --> 
+Now, technology, has of course changed what “local” means.
+
+463
+ --> 
+I can use my iPhone to load menupages.com and see what’s available for delivery in my neighborhood.
+
+464
+ --> 
+Let’s see: 36 Chinese restaurants and 42 Japanese, twenty-nine kosher,
+
+465
+ --> 
+three restaurants with wild game (not kosher), 19 Mediterranean,
+
+466
+ --> 
+8 Caribbean, 26 French and 79 Italian…
+
+467
+ --> 
+36 called “American” (traditional), and 22 called “American” (new).
+
+468
+ --> 00:29:46,750
+
+
