@@ -1,17 +1,17 @@
 1
-00:00:34,500 --> 00:00:37,250
+00:00:34,500 --> 00:00:36,500
 Stephen J. DUBNER: The Union Square Greenmarket in New York City,
 
 2
-00:00:37,250 --> 
+00:00:36,500 --> 00:00:38,500
 which was founded in 1976,
 
 3
- --> 
+00:00:38,500 --> 00:00:41,750
 is a little agrarian oasis right in the heart of the city,
 
 4
- --> 
+00:00:41,750 --> 
 it’s a throwback to how we used to buy our food.
 
 5
