@@ -399,55 +399,55 @@ if you come across what Cowen calls an “ugly and unknown” item on the menu, 
 One more Cowen rule:
 
 101
-00:06:39,750 --> 
+00:06:39,750 --> 00:06:45,500
 while you might be drawn to a restaurant full of good-looking, happy people, avoid it.
 
 102
- --> 
+00:06:45,500 --> 00:06:49,250
 People who are serious about food generally don’t look that way.
 
 103
- --> 
+00:06:49,250 --> 00:06:53,500
 And last of all: don’t be a food snob.
 
 104
- --> 
+00:06:53,500 --> 00:06:57,250
 Food snobs, Cowen says, are messing up everything.
 
 105
- --> 
+00:06:57,250 --> 00:07:03,000
 They place too much emphasis on expensive food or trendy food, or:
 
 106
- --> 
+00:07:03,000 --> 00:07:04,750
 COWEN: There’s another kind of food snob
 
 107
- --> 
+00:07:04,750 --> 00:07:08,250
 where everything has to be like a farmer’s market,
 
 108
- --> 
+00:07:08,250 --> 00:07:11,250
 everything has to be sustainable,
 
 109
- --> 
+00:07:11,250 --> 00:07:16,250
 everything has to be in some way modest or geared down, or hippie-like.
 
 110
- --> 
+00:07:16,250 --> 00:07:18,250
 DUBNER: As Cowen sees it,
 
 111
- --> 
+00:07:18,250 --> 00:07:23,500
 too many people spend too much energy worrying about their own pet preferences,
 
 112
- --> 
+00:07:23,500 --> 00:07:27,000
 which takes focus away from the real problems.
 
 113
- --> 
+00:07:27,000 --> 
 And there are real problems.
 
 114
