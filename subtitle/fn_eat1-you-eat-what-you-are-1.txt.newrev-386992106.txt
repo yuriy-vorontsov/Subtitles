@@ -199,63 +199,63 @@ RUBY: Almost.
 DUBNER: So here’s a question for you.
 
 51
-00:03:34,250 --> 
+00:03:34,250 --> 00:03:38,000
 If we assume that the Union Square Greenmarket is a wonderful place —
 
 52
- --> 
+00:03:38,000 --> 00:03:41,500
 and it’s hard not to argue that it is a wonderful place —
 
 53
- --> 
+00:03:41,500 --> 00:03:46,000
 is it necessarily the model for how we should buy our food today?
 
 54
- --> 
+00:03:46,000 --> 00:03:51,250
 In other words, do we need to go fully rustic in order to get good?
 
 55
- --> 
+00:03:51,250 --> 00:03:54,250
 And yes, we do need to get good.
 
 56
- --> 
+00:03:54,250 --> 00:03:59,000
 Because while there are many fantastic things to be said about food in modern America,
 
 57
- --> 
+00:03:59,000 --> 00:04:01,250
 there’s a lot of room for improvement.
 
 58
- --> 
+00:04:01,250 --> 00:04:03,500
 The economist Tyler Cowen,
 
 59
- --> 
+00:04:03,500 --> 00:04:06,000
 who’s not a curmudgeon, not by any stretch,
 
 60
- --> 
+00:04:06,000 --> 00:04:08,750
 says we are in the middle of a food crisis.
 
 61
- --> 
+00:04:08,750 --> 00:04:11,000
 Or at least a food paradox:
 
 62
- --> 
+00:04:11,000 --> 00:04:15,500
 Tyler COWEN: If you are a foodie today you have more options than ever before.
 
 63
- --> 
+00:04:15,500 --> 00:04:18,000
 But there’s also more bad food than ever before.
 
 64
- --> 
+00:04:18,000 --> 00:04:21,000
 There’s more obesity. There’s more junk food.
 
 65
- --> 
+00:04:21,000 --> 
 And you see the food world;
 
 66
