@@ -255,39 +255,39 @@ But there’s also more bad food than ever before.
 There’s more obesity. There’s more junk food.
 
 65
-00:04:21,000 --> 
+00:04:21,000 --> 00:04:22,500
 And you see the food world;
 
 66
- --> 
+00:04:22,500 --> 00:04:25,250
 it’s getting a lot worse and a lot better at the same time.
 
 67
- --> 
+00:04:25,250 --> 00:04:28,750
 That’s one way to think about the crisis.
 
 68
- --> 
+00:04:28,750 --> 00:04:37,500
 [THEME]
 
 69
- --> 
+00:04:37,500 --> 00:04:41,500
 ANNOUNCER: From WNYC and APM, American Public Media:
 
 70
- --> 
+00:04:41,500 --> 00:04:44,500
 This is Freakonomics Radio, the podcast
 
 71
- --> 
+00:04:44,500 --> 00:04:47,000
 that explores the hidden side of everything.
 
 72
- --> 
+00:04:47,000 --> 00:04:49,750
 Here’s your host, Stephen Dubner.
 
 73
- --> 
+00:04:49,750 --> 
 DUBNER: Today we’re talking about everybody’s favorite subject: food.
 
 74
