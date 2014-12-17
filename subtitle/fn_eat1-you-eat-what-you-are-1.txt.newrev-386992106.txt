@@ -171,35 +171,35 @@ RUBY: Well, we have whole duck, duck breasts, duck legs and thighs,
 duck prosciutto, applewood smoked duck breast, a rillette,
 
 44
-00:03:09,500 --> 
+00:03:09,500 --> 00:03:15,250
 which is kind of like a rustic style of paté, legs
 
 45
- --> 
+00:03:15,250 --> 00:03:18,750
 and thighs that are already confit, which means cooked low and slow
 
 46
- --> 
+00:03:18,750 --> 00:03:21,500
 and preserved under a layer of duck fat.
 
 47
- --> 
+00:03:21,500 --> 00:03:24,500
 What else do we have? Duck salami, duck bacon.
 
 48
- --> 
+00:03:24,500 --> 00:03:27,000
 DUBNER: There’s nothing you can't do with duck!
 
 49
- --> 
+00:03:27,000 --> 00:03:32,500
 RUBY: Almost.
 
 50
- --> 
+00:03:32,500 --> 00:03:34,250
 DUBNER: So here’s a question for you.
 
 51
- --> 
+00:03:34,250 --> 
 If we assume that the Union Square Greenmarket is a wonderful place —
 
 52
