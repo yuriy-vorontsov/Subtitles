@@ -283,51 +283,51 @@ This is Freakonomics Radio, the podcast
 that explores the hidden side of everything.
 
 72
-00:04:47,000 --> 00:04:49,750
+00:04:47,000 --> 00:04:51,750
 Here’s your host, Stephen Dubner.
 
 73
-00:04:49,750 --> 
+00:04:51,750 --> 00:04:57,250
 DUBNER: Today we’re talking about everybody’s favorite subject: food.
 
 74
- --> 
+00:04:57,250 --> 00:04:59,750
 We like talking about food so much, in fact,
 
 75
- --> 
+00:04:59,750 --> 00:05:01,750
 that we’ve made a two-part podcast.
 
 76
- --> 
+00:05:01,750 --> 00:05:06,000
 In this first episode, we’ll talk about what’s wrong with food in America,
 
 77
- --> 
+00:05:06,000 --> 00:05:08,750
 how it got that way, and how it can get better.
 
 78
- --> 
+00:05:08,750 --> 00:05:13,500
 In the next episode we’ll look at whether eating local is the path to salvation.
 
 79
- --> 
+00:05:13,500 --> 00:05:16,500
 For now, let’s get back to Tyler Cowen.
 
 80
- --> 
+00:05:16,500 --> 00:05:19,250
 He’s an economist at George Mason University
 
 81
- --> 
+00:05:19,250 --> 00:05:22,250
 who also happens to be a serious chowhound.
 
 82
- --> 
+00:05:22,250 --> 00:05:28,500
 His latest book is called An Economist Gets Lunch: New Rules for Everyday Foodies.
 
 83
- --> 
+00:05:28,500 --> 
 While economics and food might seem like a pair of ingredients that shouldn’t be mixed,
 
 84
