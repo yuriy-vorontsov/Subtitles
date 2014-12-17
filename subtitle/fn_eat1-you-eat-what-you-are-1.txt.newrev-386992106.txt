@@ -447,27 +447,27 @@ too many people spend too much energy worrying about their own pet preferences,
 which takes focus away from the real problems.
 
 113
-00:07:27,000 --> 
+00:07:27,000 --> 00:07:28,750
 And there are real problems.
 
 114
- --> 
+00:07:28,750 --> 00:07:34,000
 For instance, about 15 percent of Americans are said to be “food insecure,”
 
 115
- --> 
+00:07:34,000 --> 00:07:38,750
 meaning they don’t have enough to eat.  And 35 percent are obese.
 
 116
- --> 
+00:07:38,750 --> 00:07:42,250
 Our number one cause of death is heart disease,
 
 117
- --> 
+00:07:42,250 --> 00:07:46,250
 and it’s quite likely that a lot of things we eat contribute to that.
 
 118
- --> 
+00:07:46,250 --> 
 Added to this mix is the fact that we’re only now slowly crawling out of a long, bad food rut.
 
 119
