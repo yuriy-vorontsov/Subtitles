@@ -467,39 +467,39 @@ Our number one cause of death is heart disease,
 and it’s quite likely that a lot of things we eat contribute to that.
 
 118
-00:07:46,250 --> 
+00:07:46,250 --> 00:07:54,500
 Added to this mix is the fact that we’re only now slowly crawling out of a long, bad food rut.
 
 119
- --> 
+00:07:54,500 --> 00:07:57,500
 COWEN: I think there’s a very bad period for American food.
 
 120
- --> 
+00:07:57,500 --> 00:08:02,250
 It runs something like 1910 through maybe the 1980s.
 
 121
- --> 
+00:08:02,250 --> 00:08:07,500
 And that’s the age of the frozen TV dinner, of the sugar donut,
 
 122
- --> 
+00:08:07,500 --> 00:08:12,000
 of fast food, of the chain, and really a lot of it’s not very good.
 
 123
- --> 
+00:08:12,000 --> 00:08:13,500
 If you go back to the nineteenth century
 
 124
- --> 
+00:08:13,500 --> 00:08:15,750
 and you read Europeans who come to the United States,
 
 125
- --> 
+00:08:15,750 --> 00:08:20,750
 they’re really quite impressed by the freshness and variety of what is on offer.
 
 126
- --> 
+00:08:20,750 --> 
 But we went a very particular route in our food world,
 
 127
