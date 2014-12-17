@@ -95,43 +95,43 @@ DUBNER: What’s your drive in the morning?
 DAVID: One hundred and fifty-four miles. I left at 2:30 this morning.
 
 25
-00:02:03,750 --> 
+00:02:03,750 --> 00:02:10,750
 I have a 1999 Chevrolet in back of me. I just turned four hundred and eight thousand miles on it.
 
 26
- --> 
+00:02:10,750 --> 00:02:11,750
 DUBNER: Whoa.
 
 27
- --> 
+00:02:11,750 --> 00:02:14,750
 DUBNER: David Graves owns a farm called Berkshire Berries,
 
 28
- --> 
+00:02:14,750 --> 00:02:18,500
 and today he’s selling all sorts of preserves.
 
 29
- --> 
+00:02:18,500 --> 00:02:22,000
 DAVID: Raspberry jam, strawberry, onion jam...
 
 30
- --> 
+00:02:22,000 --> 00:02:23,500
 DUBNER: Whoa!
 
 31
- --> 
+00:02:23,500 --> 00:02:25,500
 DAVID: Also, hot garlic jelly.
 
 32
- --> 
+00:02:25,500 --> 00:02:30,250
 DUBNER: And here’s Kelly. She works for Windfall Farms, in upstate New York.
 
 33
- --> 
+00:02:30,250 --> 00:02:33,250
 KELLY: We’ve got an assortment of mesclun mix,
 
 34
- --> 
+00:02:33,250 --> 
 we’ve got various micro greens, a micro mix, we do sunflower greens, escarole,
 
 35
