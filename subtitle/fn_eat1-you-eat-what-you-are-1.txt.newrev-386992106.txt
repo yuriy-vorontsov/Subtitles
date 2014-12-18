@@ -703,23 +703,23 @@ but there is a real good supply of meat in it.
 If you would want to take a cleaver and break it into smaller pieces,
 
 177
-00:11:43,500 --> 
+00:11:43,500 --> 00:11:48,250
 it would make a good stew and gravy with potatoes or dumplings
 
 178
- --> 
+00:11:48,250 --> 00:11:54,750
 and the children would like it.
 
 179
- --> 
-DUBNER: Strangely enough,
+00:11:54,750 --> 00:11:57,000
+DUBNER: Strangely enough, Tyler Cowen says, 
 
 180
- --> 
-Tyler Cowen says, U.S. meat consumption didn’t decline during World War II.
+00:11:57,000 --> 00:12:01,000
+U.S. meat consumption didn’t decline during World War II.
 
 181
- --> 
+00:12:01,000 --> 
 But it wasn’t the same meat as they were eating before …
 
 182
