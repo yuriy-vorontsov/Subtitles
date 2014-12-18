@@ -583,47 +583,47 @@ it doesn’t help dining out.
 DUBNER: And that coincided with another downward force on good food:
 
 147
-00:09:41,500 --> 
+00:09:41,500 --> 00:09:45,500
 COWEN: Prohibition, which puts out of business a lot of the best restaurants.
 
 148
- --> 
+00:09:45,500 --> 00:09:49,500
 DUBNER: As Cowen sees it, restaurants were seedbeds of innovation,
 
 149
- --> 
+00:09:49,500 --> 00:09:53,750
 but during Prohibition, some of the best restaurants were forced to shut down
 
 150
- --> 
+00:09:53,750 --> 00:09:56,250
 since they couldn’t survive without alcohol sales.
 
 151
- --> 
+00:09:56,250 --> 00:10:04,000
 Now, interestingly, the overall number of restaurants in the U.S. tripled between 1919 and 1929,
 
 152
- --> 
+00:10:04,000 --> 00:10:08,750
 but they weren’t the kind of restaurants that a food lover would love.
 
 153
- --> 
+00:10:08,750 --> 00:10:14,500
 COWEN: What you get are more diners, more fast food shops, more just ordinary food.
 
 154
- --> 
+00:10:14,500 --> 00:10:16,500
 Food is much more for children.
 
 155
- --> 
+00:10:16,500 --> 00:10:19,500
 Children, I’m sorry to say, they don’t have great taste in food.
 
 156
- --> 
+00:10:19,500 --> 00:10:25,000
 They like soft, they like sweet, they like Wonder Bread.
 
 157
- --> 
+00:10:25,000 --> 
 COWEN: So American food becomes more food for children.
 
 158
