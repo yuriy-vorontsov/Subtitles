@@ -1855,18 +1855,18 @@ I can use my iPhone to load menupages.com and see what’s available for deliver
 Let’s see: 36 Chinese restaurants and 42 Japanese, twenty-nine kosher,
 
 465
-00:28:57,000 --> 
+00:28:57,000 --> 00:29:02,750
 three restaurants with wild game (not kosher), 19 Mediterranean,
 
 466
- --> 
+00:29:02,750 --> 00:29:06,750
 8 Caribbean, 26 French and 79 Italian…
 
 467
- --> 
+00:29:06,750 --> 00:29:12,000
 36 called “American” (traditional), and 22 called “American” (new).
 
 468
- --> 00:29:46,750
+00:29:12,000 --> 00:29:46,750
 
 
