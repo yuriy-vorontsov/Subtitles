@@ -719,43 +719,43 @@ DUBNER: Strangely enough, Tyler Cowen says,
 U.S. meat consumption didn’t decline during World War II.
 
 181
-00:12:01,000 --> 
+00:12:01,000 --> 00:12:04,500
 But it wasn’t the same meat as they were eating before …
 
 182
- --> 
+00:12:04,500 --> 00:12:10,250
 COWEN: People ate a lot of Spam.
 
 183
- --> 
+00:12:10,250 --> 00:12:13,250
 It’s a canned good; it doesn’t taste very good.
 
 184
- --> 
+00:12:13,250 --> 00:12:18,250
 What we did in wartime was gear up our production of everything.
 
 185
- --> 
+00:12:18,250 --> 00:12:22,000
 We had to produce a lot, including food, very quickly
 
 186
- --> 
+00:12:22,000 --> 00:12:25,000
 and have it be produced in a form that could be stored.
 
 187
- --> 
+00:12:25,000 --> 00:12:33,000
 And we made our beef and our pork and everything else just not nearly as good.
 
 188
- --> 
+00:12:33,000 --> 00:12:37,750
 DUBNER: World War II forced us to excel at industrializing our food
 
 189
- --> 
+00:12:37,750 --> 00:12:40,250
 and transporting it long distances.
 
 190
- --> 
+00:12:40,250 --> 
 Once the war was over, we kept going in this direction.
 
 191
