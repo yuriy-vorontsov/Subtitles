@@ -515,11 +515,11 @@ and that’s the hole we’ve been trying to climb out of.
 DUBNER: The conventional reason that’s given for why our food got bad
 
 130
-00:08:38,500 --> 
+00:08:38,500 --> 00:08:41,500
 is that we were victims of our own success:
 
 131
- --> 
+00:08:41,500 --> 
 COWEN: It’s the notion that we did agribusiness first,
 
 132
