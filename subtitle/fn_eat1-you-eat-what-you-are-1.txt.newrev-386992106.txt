@@ -519,39 +519,39 @@ DUBNER: The conventional reason that’s given for why our food got bad
 is that we were victims of our own success:
 
 131
-00:08:41,500 --> 
+00:08:41,500 --> 00:08:44,000
 COWEN: It’s the notion that we did agribusiness first,
 
 132
- --> 
+00:08:44,000 --> 00:08:46,250
 we did long-scale, long-distance transportation first,
 
 133
- --> 
+00:08:46,250 --> 00:08:48,500
 we commercialized everything first, and we got junk food, and chains,
 
 134
- --> 
+00:08:48,500 --> 00:08:53,750
 and bad supermarkets because of commercialization.
 
 135
- --> 
+00:08:53,750 --> 00:08:57,250
 That’s the standard story.
 
 136
- --> 
+00:08:57,250 --> 00:08:59,500
 DUBNER: But that’s not the whole story, Cowen says.
 
 137
- --> 
+00:08:59,500 --> 00:09:05,000
 There are specific, overlooked, moments in history that hurt the way we eat.
 
 138
- --> 
+00:09:05,000 --> 00:09:09,000
 ANNOUNCER: In 1924, a law was passed to restrict immigration
 
 139
- --> 
+00:09:09,000 --> 
 from countries outside the Western hemisphere.
 
 140
