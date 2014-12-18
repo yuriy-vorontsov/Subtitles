@@ -967,35 +967,35 @@ what are you going to have for dinner tonight, do you know yet?
 Michael POLLAN: You know, I don’t know
 
 243
-00:15:47,750 --> 
+00:15:47,750 --> 00:15:48,750
 because I’m going to a restaurant.
 
 244
- --> 
+00:15:48,750 --> 00:15:50,000
 DUBNER: What kind of restaurant?
 
 245
- --> 
+00:15:50,000 --> 00:15:52,000
 POLLAN: I’m going to Chez Panisse.
 
 246
- --> 
+00:15:52,000 --> 00:16:00,500
 DUBNER: I’m going to a restaurant.
 
 247
- --> 
+00:16:00,500 --> 00:16:19,500
 [UNDERWRITING]
 
 248
- --> 
+00:16:19,500 --> 00:16:25,250
 ANNOUNCER: From WNYC and APM, American Public Media,
 
 249
- --> 
+00:16:25,250 --> 00:16:29,500
 this is Freakonomics Radio. Here’s your host, Stephen Dubner.
 
 250
- --> 
+00:16:29,500 --> 
 DUBNER: Michael Pollan is a writer
 
 251
