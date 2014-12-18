@@ -991,63 +991,63 @@ DUBNER: I’m going to a restaurant.
 ANNOUNCER: From WNYC and APM, American Public Media,
 
 249
-00:16:25,250 --> 00:16:29,500
+00:16:25,250 --> 00:16:35,750
 this is Freakonomics Radio. Here’s your host, Stephen Dubner.
 
 250
-00:16:29,500 --> 
+00:16:35,750 --> 00:16:37,250
 DUBNER: Michael Pollan is a writer
 
 251
- --> 
+00:16:37,250 --> 00:16:40,500
 who has become a kind of national food philosopher.
 
 252
- --> 
+00:16:40,500 --> 00:16:44,000
 He says a lot of our food problems are due to what’s called
 
 253
- --> 
+00:16:44,000 --> 00:16:45,750
 “the omnivore’s dilemma,”
 
 254
- --> 
+00:16:45,750 --> 00:16:48,000
 which is also the title of one of his books.
 
 255
- --> 
+00:16:48,000 --> 00:16:52,750
 POLLAN: The phrase “the omnivore’s dilemma” is an anthropological term
 
 256
- --> 
+00:16:52,750 --> 00:16:56,000
 for a, um, an omnivore that can eat so many different things,
 
 257
- --> 
+00:16:56,000 --> 00:16:59,500
 some of which is not good for you, some of which will kill you,
 
 258
- --> 
+00:16:59,500 --> 00:17:02,750
 and deciding between what is good and what is bad
 
 259
- --> 
+00:17:02,750 --> 00:17:06,000
 is a big part of why we have these giant brains we have.
 
 260
- --> 
+00:17:06,000 --> 00:17:09,500
 And that anxiety, you know, afflicts us.
 
 261
- --> 
+00:17:09,500 --> 00:17:11,750
 It doesn’t afflict the cow or the koala.
 
 262
- --> 
+00:17:11,750 --> 00:17:14,000
 I mean, they eat that one thing,
 
 263
- --> 
+00:17:14,000 --> 
 and if it’s not that one thing, it’s not lunch.
 
 264
