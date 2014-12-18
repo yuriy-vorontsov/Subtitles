@@ -619,47 +619,47 @@ Food is much more for children.
 Children, I’m sorry to say, they don’t have great taste in food.
 
 156
-00:10:19,500 --> 00:10:25,000
+00:10:19,500 --> 00:10:26,000
 They like soft, they like sweet, they like Wonder Bread.
 
 157
-00:10:25,000 --> 
+00:10:26,000 --> 00:10:34,000
 COWEN: So American food becomes more food for children.
 
 158
- --> 
+00:10:34,000 --> 00:10:38,250
 DUBNER: So the American food scene became a bit of a kindergarchy,
 
 159
- --> 
+00:10:38,250 --> 00:10:41,000
 with a surge in family-friendly restaurants —
 
 160
- --> 
+00:10:41,000 --> 00:10:44,750
 much more so than in other countries.
 
 161
- --> 
+00:10:44,750 --> 00:10:50,000
 DUBNER: Another turning point for American food: World War II.
 
 162
- --> 
+00:10:50,000 --> 00:10:54,000
 ANNOUNCER: On this 1,048th day of American democracy
 
 163
- --> 
+00:10:54,000 --> 00:10:56,000
 at war against the foes of freedom,
 
 164
- --> 
+00:10:56,000 --> 00:10:58,500
 we bring you our mayor, the Honorable F.H. LaGuardia,
 
 165
- --> 
+00:10:58,500 --> 00:11:03,000
 speaking to you from his desk in City Hall in another talk to the people.
 
 166
- --> 
+00:11:03,000 --> 
 Ladies and gentlemen, his honor, the Mayor.
 
 167
