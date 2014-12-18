@@ -1215,55 +1215,55 @@ You’ve got the high fructose corn syrup coming of the corn,
 and you have the hydrogenated oils coming out the soy.
 
 305
-00:19:35,000 --> 00:19:37,500
+00:19:35,000 --> 00:19:36,750
 And right there you’ve got a fast food meal.
 
 306
-00:19:37,500 --> 
+00:19:36,750 --> 00:19:41,750
 DUBNER: But persuade me that that’s not just what the public wants to eat
 
 307
- --> 
+00:19:41,750 --> 00:19:43,250
 and that the market wants to buy and sell.
 
 308
- --> 
+00:19:43,250 --> 00:19:46,750
 In other words, talk to me about how this isn’t the way a market’s working,
 
 309
- --> 
+00:19:46,750 --> 00:19:49,500
 this is the way a government-subsidized market is working.
 
 310
- --> 
+00:19:49,500 --> 00:19:55,000
 POLLAN: Well, the reason that we subsidize those crops
 
 311
- --> 
+00:19:55,000 --> 00:20:00,250
 is not because people wanted to eat them, necessarily.
 
 312
- --> 
+00:20:00,250 --> 00:20:03,750
 Nobody actually thought to eat soy or any byproducts of soy,
 
 313
- --> 
+00:20:03,750 --> 00:20:07,250
 and hydrogenated soy oil and high fructose corn syrup were not things
 
 314
- --> 
+00:20:07,250 --> 00:20:09,250
 that anybody was clambering for.
 
 315
- --> 
+00:20:09,250 --> 00:20:11,500
 They actually grew out of an overproduction.
 
 316
- --> 
+00:20:11,500 --> 00:20:14,000
 And one of the geniuses of capitalism is
 
 317
- --> 
+00:20:14,000 --> 
 when you have too much of something that nobody wants
 
 318
