@@ -1095,55 +1095,55 @@ DUBNER: But, okay,
 so you’ve spent a lot of time thinking about the problems
 
 275
-00:17:52,000 --> 
+00:17:52,000 --> 00:17:54,500
 that have come to exist and how they’ve come to exist,
 
 276
- --> 
+00:17:54,500 --> 00:17:59,000
 but start to talk about some solutions from the production side,
 
 277
- --> 
+00:17:59,000 --> 00:18:00,750
 not yet from the consumer side, but from the production side.
 
 278
- --> 
+00:18:00,750 --> 00:18:02,250
 POLLAN: Sure, well I think
 
 279
- --> 
+00:18:02,250 --> 00:18:05,500
 one of the most important things to do is to diversify our agriculture.
 
 280
- --> 
+00:18:05,500 --> 00:18:09,250
 You know, we’re growing vast amounts of corn and soybeans,
 
 281
- --> 
+00:18:09,250 --> 00:18:13,500
 these commodity crops that we heavily subsidize the planting of.
 
 282
- --> 
+00:18:13,500 --> 00:18:19,000
 And it’s too much of a good thing, or too much of a so-so thing.
 
 283
- --> 
+00:18:19,000 --> 00:18:24,250
 And that we should devise mechanisms in our agricultural policy
 
 284
- --> 
+00:18:24,250 --> 00:18:27,750
 that reward farmers for having more than one or two crops,
 
 285
- --> 
+00:18:27,750 --> 00:18:30,500
 because the more different crops they have,
 
 286
- --> 
+00:18:30,500 --> 00:18:34,500
 the less need they’ll have for fertilizers,
 
 287
- --> 
+00:18:34,500 --> 
 which are, you know, huge fossil fuel burners,
 
 288
