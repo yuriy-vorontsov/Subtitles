@@ -547,43 +547,43 @@ DUBNER: But that’s not the whole story, Cowen says.
 There are specific, overlooked, moments in history that hurt the way we eat.
 
 138
-00:09:05,000 --> 00:09:09,000
+00:09:05,000 --> 00:09:09,250
 ANNOUNCER: In 1924, a law was passed to restrict immigration
 
 139
-00:09:09,000 --> 
+00:09:09,250 --> 00:09:13,250
 from countries outside the Western hemisphere.
 
 140
- --> 
+00:09:13,250 --> 00:09:17,750
 COWEN: So the mid 1920s, the first thing we do is we choke off immigration,
 
 141
- --> 
+00:09:17,750 --> 00:09:20,500
 which is just going to kill off the quality of our food.
 
 142
- --> 
+00:09:20,500 --> 00:09:24,000
 Like, imagine current American dining without immigration.
 
 143
- --> 
+00:09:24,000 --> 00:09:32,750
 DUBNER: The culinary stagnation caused by immigration policy ran straight into the Great Depression:
 
 144
- --> 
+00:09:32,750 --> 00:09:35,000
 COWEN: That doesn’t help the restaurant trade either;
 
 145
- --> 
+00:09:35,000 --> 00:09:36,500
 it doesn’t help dining out.
 
 146
- --> 
+00:09:36,500 --> 00:09:41,500
 DUBNER: And that coincided with another downward force on good food:
 
 147
- --> 
+00:09:41,500 --> 
 COWEN: Prohibition, which puts out of business a lot of the best restaurants.
 
 148
