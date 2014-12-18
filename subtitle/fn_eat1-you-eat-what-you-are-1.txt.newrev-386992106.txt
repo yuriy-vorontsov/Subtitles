@@ -1047,55 +1047,55 @@ It doesn’t afflict the cow or the koala.
 I mean, they eat that one thing,
 
 263
-00:17:14,000 --> 
+00:17:14,000 --> 00:17:16,250
 and if it’s not that one thing, it’s not lunch.
 
 264
- --> 
+00:17:16,250 --> 00:17:19,000
 And things are pretty simple and you don’t need a big brain
 
 265
- --> 
+00:17:19,000 --> 00:17:21,750
 you just need a big stomach to digest all those leaves.
 
 266
- --> 
+00:17:21,750 --> 00:17:26,250
 And so it’s part of our existential predicament to worry
 
 267
- --> 
+00:17:26,250 --> 00:17:30,000
 first do we have enough food and second do we have the right food.
 
 268
- --> 
+00:17:30,000 --> 00:17:33,250
 DUBNER: I guess the clichéd way to ask this question would be
 
 269
- --> 
+00:17:33,250 --> 00:17:38,000
 if you, Michael Pollan, were king of the day, or food czar for the day,
 
 270
- --> 
+00:17:38,000 --> 00:17:42,250
 or agriculture secretary for a year, God forbid for your sake
 
 271
- --> 
+00:17:42,250 --> 00:17:44,250
 that you’d have to do that job, it’d be miserable.
 
 272
- --> 
+00:17:44,250 --> 00:17:46,000
 POLLAN: And for the nation’s sake.
 
 273
- --> 
+00:17:46,000 --> 00:17:47,250
 DUBNER: But, okay,
 
 274
- --> 
+00:17:47,250 --> 00:17:52,000
 so you’ve spent a lot of time thinking about the problems
 
 275
- --> 
+00:17:52,000 --> 
 that have come to exist and how they’ve come to exist,
 
 276
