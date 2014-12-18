@@ -1575,47 +1575,47 @@ DUBNER: Ok, so I pulled up the menu here.
 POLLAN: What do they have?
 
 395
-00:24:12,750 --> 
+00:24:12,750 --> 00:24:14,000
 DUBNER: So dinner menu for tonight looks like
 
 396
- --> 
+00:24:14,000 --> 00:24:19,000
 we’ve got some six Hog Island sweet water oysters on the half shell with mignonette.
 
 397
- --> 
+00:24:19,000 --> 00:24:20,500
 I don’t know what mignonette means.
 
 398
- --> 
+00:24:20,500 --> 00:24:22,500
 POLLAN: It’s a little vinegar with some shallots in it.
 
 399
- --> 
+00:24:22,500 --> 00:24:23,000
 DUBNER: Thank you.
 
 400
- --> 
+00:24:23,000 --> 00:24:27,000
 Then a grilled Belgian endive with pancetta, rosemary, and egg.
 
 401
- --> 
+00:24:27,000 --> 00:24:31,500
 Squash hummus with shaved fennel and pickled cauliflower.
 
 402
- --> 
+00:24:31,500 --> 00:24:35,500
 Celery root and rocket salad with crème fraiche and beets.
 
 403
- --> 
+00:24:35,500 --> 00:24:39,750
 A house-made rigatoni with Llano Seco Ranch pork ragu.
 
 404
- --> 
+00:24:39,750 --> 00:24:41,750
 POLLAN: Oh, man, you’re making me hungry, Stephen.
 
 405
- --> 
+00:24:41,750 --> 
 DUBNER: And then a bowl of Churchill-Brenneis Orchards page mandarins
 
 406
