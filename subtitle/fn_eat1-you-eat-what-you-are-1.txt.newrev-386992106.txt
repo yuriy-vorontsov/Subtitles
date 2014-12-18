@@ -1763,51 +1763,51 @@ We all do things and hold views for reasons which are not totally rational.
 And the purpose is to have some kind of dialogue
 
 442
-00:27:11,250 --> 
+00:27:11,250 --> 00:27:25,500
 and get us to a better place.
 
 443
- --> 
+00:27:25,500 --> 00:27:27,750
 DUBNER: On the next installment of Freakonomics Radio,
 
 444
- --> 
+00:27:27,750 --> 00:27:29,750
 we’ll continue this conversation.
 
 445
- --> 
+00:27:29,750 --> 00:27:32,250
 And we’ll keep looking for a better place.
 
 446
- --> 
+00:27:32,250 --> 00:27:36,000
 We’ll talk about locavorism, and run some numbers.
 
 447
- --> 
+00:27:36,000 --> 00:27:38,500
 Some of them will surprise you:
 
 448
- --> 
+00:27:38,500 --> 00:27:42,000
 David CLEVELAND: This is what really shocked us is we found that
 
 449
- --> 
+00:27:42,000 --> 00:27:48,500
 when you added up all these different ways in which locally grown produce got to people in Santa Barbara County
 
 450
- --> 
+00:27:48,500 --> 00:27:53,000
 we found that less than five percent of the fruits and vegetables
 
 451
- --> 
+00:27:53,000 --> 00:27:57,500
 consumed in Santa Barbara County were actually grown in Santa Barbara County.
 
 452
- --> 
+00:27:57,500 --> 00:28:02,500
 And the other ninety-five percent were imported.
 
 453
- --> 
+00:28:02,500 --> 
 Ed GLAESER: And we certainly are right to worry a lot
 
 454
