@@ -923,51 +923,51 @@ The biggest food problem in the world today
 is that agricultural productivity is slowing down
 
 232
-00:15:02,250 --> 00:15:05,750
+00:15:02,250 --> 00:15:05,500
 and for a lot of the world food prices are going up.
 
 233
-00:15:05,750 --> 
+00:15:05,500 --> 00:15:21,250
 And for that we need more business, technology and innovation, not locavorism.
 
 234
- --> 
+00:15:21,250 --> 00:15:23,000
 DUBNER: Coming up...
 
 235
- --> 
+00:15:23,000 --> 00:15:27,250
 if we assume that this messy food system of ours needs fixing,
 
 236
- --> 
+00:15:27,250 --> 00:15:29,000
 what are the solutions?
 
 237
- --> 
+00:15:29,000 --> 00:15:32,000
 Alice WATERS: I think that the work of the farmer,
 
 238
- --> 
+00:15:32,000 --> 00:15:39,750
 it needs to be elevated to a very important and vital place.
 
 239
- --> 
+00:15:39,750 --> 00:15:43,250
 DUBNER: And, what does dinner look like tonight?
 
 240
- --> 
+00:15:43,250 --> 00:15:44,500
 DUBNER: I’m curious, Michael,
 
 241
- --> 
+00:15:44,500 --> 00:15:46,750
 what are you going to have for dinner tonight, do you know yet?
 
 242
- --> 
+00:15:46,750 --> 00:15:47,750
 Michael POLLAN: You know, I don’t know
 
 243
- --> 
+00:15:47,750 --> 
 because I’m going to a restaurant.
 
 244
