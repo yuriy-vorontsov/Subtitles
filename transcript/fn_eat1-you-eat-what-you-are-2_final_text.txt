@@ -186,129 +186,104 @@ if this is the way the economy works in this case then it’s dumb.
 It doesn’t make sense, right, to take food that we grow locally here,
 ship it off to a warehouse and then ship it back to here.
 So you know what, in some twisted configurations of incentives
-that has come to pass, but it’s stupid. Was that your thought?
-
+that has come to pass, but it’s stupid. 
+Was that your thought?
 CLEVELAND: Yeah, and my thought was that somehow this economic system,
-people are being rewarded economically
-for this kind of behavior one assumes, but somehow the reward system
-for economic behavior is totally out of sync with the reward system
-for good nutrition, for community, for environment.
-There’s this disconnect between economics and the reason
-that we grow food.
-
-DUBNER: What Cleveland is saying certainly seems to make sense: that
-when it comes to food,
+people are being rewarded economically for this kind of behavior one assumes, 
+but somehow the reward system for economic behavior is totally out of sync 
+with the reward system for good nutrition, for community, for environment.
+There’s this disconnect between economics and the reason that we grow food.
+DUBNER: What Cleveland is saying certainly seems to make sense: 
+that when it comes to food,
 the modern economy conspires against three very important factors:
-good nutrition, the environment,
-and community – meaning local farmers and the people
-who support them.
+good nutrition, the environment, and community – 
+meaning local farmers and the people who support them.
 But Cleveland’s research was showing something different.
-We’ll start with the local farmers. It looked as
-if things were working out okay for them –
-why else would they sell most of their produce for export, rather
-than keep it local? And what about the nutrition?
+We’ll start with the local farmers. 
+It looked as if things were working out okay for them –
+why else would they sell most of their produce for export, 
+rather than keep it local? And what about the nutrition?
 Here’s another surprising fact that Cleveland found:
 a 100% local diet wouldn’t improve nutrition within the county.
 Higher income might;
-but a dearth of local produce wasn’t the problem. Still,
-what about the environment? As David Cleveland puts it:
+but a dearth of local produce wasn’t the problem. 
+Still, what about the environment? As David Cleveland puts it:
 “Most of what’s grown in Santa Barbara is shipped out.
 And most of what’s eaten in Santa Barbara is shipped in.
 This seems crazy,” he says. Surely that is crazy, isn’t it?
 Coming up: the math behind carbon emissions and local food.
 DUBNER: When your eyes saw that number what did you think?
-
 CLEVELAND: We went back and redid our calculations.
-
 DUBNER: And ... is there a moral upside to not eating local food?
-Ed GLAESER:
-I just keep coming back to feeling a certain amount of satisfaction
+Ed GLAESER: I just keep coming back to feeling a certain amount of satisfaction
 that I’m eating grapes
 that are keeping up the standard of living in Chile.
-
 [UNDERWRITING]
-
 ANNOUNCER: From WNYC and APM, American Public Media,
 this is Freakonomics Radio. Here’s your host, Stephen Dubner.
-
 DUBNER: Okay, so David Cleveland,
 who teaches environmental studies at the University of California,
 Santa Barbara, found
 that 95 percent of the produce consumed in Santa Barbara County,
 which grows $1.2 billion worth of produce a year, is imported,
 some of it from the other side of the world,
-whereas 99 percent of the produce grown there is exported. Now
-that sounds, on the surface, like an environmental travesty.
-So he began looking into those numbers too. What would happen,
-for instance, if Santa Barbara County went totally locavore,
+whereas 99 percent of the produce grown there is exported. 
+Now that sounds, on the surface, like an environmental travesty.
+So he began looking into those numbers too. 
+What would happen, for instance, if Santa Barbara County went totally locavore,
 if all the produce eaten in Santa Barbara were also grown there?
-CLEVELAND: Yeah, we wanted to look at, at
-what effect one hundred percent localization of the Santa Barbara County system,
-which is a physically,
-biologically very feasible thing to do because, you know,
-we have the land, we’re growing so much, and so forth. So what
-if we did one hundred percent localize the system, what effect would
-that have on greenhouse gas emissions? And we found
-that it wouldn’t make a lot of difference.
+CLEVELAND: Yeah, we wanted to look at, 
+at what effect one hundred percent localization of the Santa Barbara County system,
+which is a physically, biologically very feasible thing to do because, 
+you know, we have the land, we’re growing so much, and so forth. 
+So what if we did one hundred percent localize the system, 
+what effect would that have on greenhouse gas emissions? 
+And we found that it wouldn’t make a lot of difference.
 Our savings in greenhouse gas emissions per household
-as a proportion of the total food system greenhouse gas emissions was less
-than one percent.
-
+as a proportion of the total food system greenhouse gas emissions 
+was less than one percent.
 DUBNER: Wow. When your eyes saw that number what did you think?
-
 CLEVELAND: We went back and redid our calculations.
-
 DUBNER: I don’t blame you. You thought how can this possibly be true?
-
 CLEVELAND: Right, and so, you know,
 it wasn’t…We didn’t think it was going to be a huge number,
 but we were still a bit surprised that it was less than one percent.
 And when you look at that in terms of what the EPA estimated
 for example in 2008
 for greenhouse gas emissions per person in the United States in 2008,
-it’s point one percent. So, I guess the point
-that we began to dawn on me and on the others was that even
-though our food system accounts
+it’s point one percent. 
+So, I guess the point that we began to dawn on me and on the others 
+was that even though our food system accounts
 for a huge amount of our impact on the environment,
 including greenhouse gas emissions,
 and localization is being promoted
 as a major cure to all that’s wrong with our current food system,
 in terms of one of the focal impacts it doesn’t necessarily have a great deal of effect.
-
-
-DUBNER: How can this be? As Cleveland says,
-producing food requires a lot of energy. So wouldn’t it make sense
-that we could use a lot less energy by transporting food shorter distances?
-
-Christopher WEBER: Well, I mean, the take home message
-that we learned is
-that basically transportation is really only about seven percent of the greenhouse gas footprint associated with the overall average American diet.
-
-
-DUBNER: That’s Christopher Weber, he’s a researcher at the Science
-and Technology Policy Institute in Washington. Back in 2008, he
-and a colleague, H. Scott Matthews, analyzed the U.S. food network
-and found
-that the energy used in the transportation of food represents a relatively trivial amount of the overall energy used.
+DUBNER: How can this be? 
+As Cleveland says, producing food requires a lot of energy. 
+So wouldn’t it make sense that we could use a lot less energy 
+by transporting food shorter distances?
+Christopher WEBER: Well, I mean, the take home message that we learned is
+that basically transportation is really only about seven percent of the greenhouse gas footprint 
+associated with the overall average American diet.
+DUBNER: That’s Christopher Weber, he’s a researcher 
+at the Science and Technology Policy Institute in Washington. 
+Back in 2008, he and a colleague, H. Scott Matthews, analyzed the U.S. food network
+and found that the energy used in the transportation of food 
+represents a relatively trivial amount of the overall energy used.
 Their paper made a bit of noise.
 DUBNER: So this paper that you wrote, I understand
-that you’ve said no matter what you do…You’re a young guy,
-right you’re in your early…
-
+that you’ve said no matter what you do…
+You’re a young guy, right you’re in your early…
 WEBER: Relatively, sure.
-
 DUBNER: Early thirties maybe, mid thirties?
-
 WEBER: Yeah. Yeah.
-
 DUBNER: Okay, and so you’ve got a long career ahead of you,
 and I’ve heard you say no matter what you do,
 unless maybe barring a Nobel or Pulitzer Prize
 that what’s going to be on your gravestone is this paper
 that you wrote as your graduate thesis, yes?
-
 WEBER: Yeah, it certainly seems that way.
-
 DUBNER: One person
 who found the Weber-Matthews research interesting was Ed Glaeser.
 He’s an economist at Harvard
