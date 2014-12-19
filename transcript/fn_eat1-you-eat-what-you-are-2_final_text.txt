@@ -291,31 +291,27 @@ who spends a lot of time thinking about where and how people live:
 urban density vs. suburban sprawl, things like that.
 GLAESER: There’s a 2008 article by Weber and Matthews
 who actually go through the various environmental costs involved in food production,
-particularly carbon dioxide emissions. And they found
-that there’s about 8.
-9 tons of carbon dioxide per household per year from food consumption in the United States.
-Out of that 8.9 tons only 0.4 tons, so about five percent, less
-than five percent came from food delivery to you.
+particularly carbon dioxide emissions. 
+And they found that there’s about 8.9 tons of carbon dioxide per household per year 
+from food consumption in the United States.
+Out of that 8.9 tons only 0.4 tons, so about five percent, 
+less than five percent came from food delivery to you.
 And all agricultural transportation up and down the food chain
 that delivers only about one ton of carbon dioxide per household annually.
 So there’s a lot of carbon emissions involved in food,
-but you want to think about it
-as being in the very heart of food production which is going to go on
-wherever you eat it or not. And there you’re going to, you know,
+but you want to think about it as being in the very heart of food production 
+which is going to go on wherever you eat it or not. 
+And there you’re going to, you know,
 you will make choices about what you’re eating.
-And obviously animals tend to be more energy intensive than grains
-for example. Those choices are going to matter a lot more as to
-whether the food is shipped long distances
-because it just doesn’t require
-that much energy to ship food fairly long distances in this world.
-
-DUBNER: So in keeping with that argument, the idea is
-that a bigger farm, whether it’s a sheep farm
-or a produce farm is going to be more efficient in its production per pound of food,
-let’s say, than a smaller local farm, in
-that the transportation is just not a big enough piece of the equation to really tip the scale?
-
-
+And obviously animals tend to be more energy intensive than grains for example. 
+Those choices are going to matter a lot more 
+as to whether the food is shipped long distances
+because it just doesn’t require that much energy to ship food fairly long distances in this world.
+DUBNER: So in keeping with that argument, 
+the idea is that a bigger farm, whether it’s a sheep farm or a produce farm 
+is going to be more efficient in its production per pound of food,
+let’s say, than a smaller local farm, 
+in that the transportation is just not a big enough piece of the equation to really tip the scale?
 GLAESER: That’s the usual argument. I find it fairly compelling.
 The second argument that’s made,
 and this has been particularly done comparing food production in England with other areas,
