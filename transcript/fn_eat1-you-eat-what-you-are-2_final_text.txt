@@ -430,10 +430,9 @@ RUBY: For me, smaller is better, for me, local is better.
 DUBNER: The responses were interesting and diverse: 
 some denial, some rationalization, some switching over to the other ways 
 in which local food is superior, like, it tastes better.
-When you make decisions about something as important
-as the environment —and as personal, as emotionally charged
-as food—it’s hard to hear
-that the factual foundation of your decision is a bit wobbly.
+When you make decisions about something as important as the environment —
+and as personal, as emotionally charged as food—
+it’s hard to hear that the factual foundation of your decision is a bit wobbly.
 It can be easier just to stick to your beliefs,
 your intuitive beliefs,
 than it is to deal with the weird complexities of the modern world.
@@ -442,25 +441,22 @@ That research paper by Christopher Weber about food miles,
 it didn’t stop there.
 WEBER: There are a few types of food
 that are very greenhouse-gas-intensive, per calorie, per kilogram,
-per however you want to measure them, and red meat
-and dairy are the especially bad players here. And
-if you are the average consumer,
+per however you want to measure them, 
+and red meat and dairy are the especially bad players here. 
+And if you are the average consumer,
 and again we were always looking at the average consumer,
 one of the big, you know, take home messages
-that we tried to get out to people is that you can do more
-for your carbon footprint by just cutting those two things out of your diet
-for one day a week
+that we tried to get out to people is that you can do more for your carbon footprint 
+by just cutting those two things out of your diet for one day a week
 than you can by buying every single thing locally all the time.
-
 DUBNER: So there you go.
 If you really want to help the environment lay off cow products.
 The cow is particularly greenhouse-gas-intensive in part because,
-like all ruminants, it naturally emits methane—its manure,
-its exhalation, its farts. And methane is more
-than 20 times more potent a greenhouse gas than carbon dioxide.
+like all ruminants, it naturally emits methane—
+its manure, its exhalation, its farts. 
+And methane is more than 20 times more potent a greenhouse gas than carbon dioxide.
 What’s that, you say? You can’t imagine cutting back on burgers?
-Well, perhaps you’d consider a substitute. The kangaroo,
-for instance, doesn’t emit methane. Its meat? A little rubbery
-but tasty. So if you really want to help,
+Well, perhaps you’d consider a substitute. 
+The kangaroo, for instance, doesn’t emit methane. Its meat? 
+A little rubbery but tasty. So if you really want to help,
 what you’ve got to do is learn to love the ‘roo.
-
