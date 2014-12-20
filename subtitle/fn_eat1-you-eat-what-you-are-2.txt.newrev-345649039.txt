@@ -1,13 +1,13 @@
 1
- --> 
+00:00:12,000 --> 00:00:15,750
 Stephen J. DUBNER: This is the Camino Real farmer’s market in Goleta, California.
 
 2
- --> 
+00:00:15,750 --> 00:00:19,750
 It’s in Santa Barbara County, about 100 miles northwest of Los Angeles.
 
 3
- --> 
+00:00:19,750 --> 
 The produce is bountiful, and it’s local…
 
 4
