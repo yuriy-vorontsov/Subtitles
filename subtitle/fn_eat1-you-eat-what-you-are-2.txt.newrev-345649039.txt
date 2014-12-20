@@ -1,0 +1,1852 @@
+1
+ --> 
+Stephen J. DUBNER: This is the Camino Real farmer’s market in Goleta, California.
+
+2
+ --> 
+It’s in Santa Barbara County, about 100 miles northwest of Los Angeles.
+
+3
+ --> 
+The produce is bountiful, and it’s local…
+
+4
+ --> 
+[SANTA BARBARA FARMER’S MARKET]
+
+5
+ --> 
+[SHOPPER] You use that on ribs?
+
+6
+ --> 
+[SHOPPER] Yeah! It’s so good.
+
+7
+ --> 
+[JEFF] We’ve got lettuce, and greens and chard, leeks and fennel,
+
+8
+ --> 
+and turnips, and artichokes, and spinach, and cabbage, broccoli
+
+9
+ --> 
+and about everything else you can get your hands on this time of year.
+
+10
+ --> 
+Our farm is about two miles away
+
+11
+ --> 
+from where we are selling right now at the farmer’s market.
+
+12
+ --> 
+[SHOPPER] It’s just amazing.
+
+13
+ --> 
+DUBNER: Santa Barbara County has a lot going for it: the beach,
+
+14
+ --> 
+the University of California, Santa Barbara,
+
+15
+ --> 
+and farming—it is in the top 1% of agriculture-producing counties in the U.S.,
+
+16
+ --> 
+about $1.2 billion worth a year.
+
+17
+ --> 
+Now, imagine for a moment that everything is interrupted by some kind of a natural disaster:
+
+18
+ --> 
+David CLEVELAND: In 2005 there was a mudslide at La Conchita,
+
+19
+ --> 
+which is a community in the southeastern part of Santa Barbara County, right on the coast.
+
+20
+ --> 
+DUBNER: That’s David Cleveland.
+
+21
+ --> 
+He teaches environmental studies at UC Santa Barbara.
+
+22
+ --> 
+The mudslide he’s talking about killed ten people.
+
+23
+ --> 
+CLEVELAND: And also blocked off the 101 freeway and the railroad,
+
+24
+ --> 
+which are the main transportation connections with Los Angeles.
+
+25
+ --> 
+And these transportation links were closed for at least a week.
+
+26
+ --> 
+DUBNER: So Santa Barbara couldn’t ship its produce down to the distribution centers in L.A.,
+
+27
+ --> 
+or anywhere else, nor could it ship produce in.
+
+28
+ --> 
+But that wouldn’t seem to be a problem, since Santa Barbara grows so much.
+
+29
+ --> 
+You’d think the grocery stores would still have plenty of fruits and veg.
+
+30
+ --> 
+CLEVELAND: So we had produce sections that were empty.
+
+31
+ --> 
+And here’s farmers with boxes of harvested fruit and vegetables
+
+32
+ --> 
+that they can’t, their distributors can’t pick them up.
+
+33
+ --> 
+And so farmers said oh yeah we went
+
+34
+ --> 
+and talked to the produce manager at this grocery chain
+
+35
+ --> 
+and we said look we got stuff that we can’t get out
+
+36
+ --> 
+and you can’t get anything in, let’s make a deal.
+
+37
+ --> 
+And they were told no, sorry, we got a contract.
+
+38
+ --> 
+DUBNER: Did you feel it was absurd
+
+39
+ --> 
+or along the lines of borderline criminal?
+
+40
+ --> 
+CLEVELAND: Often those two things go together, I think.
+
+41
+ --> 
+[THEME]
+
+42
+ --> 
+ANNOUNCER: From WNYC and APM, American Public Media:
+
+43
+ --> 
+This is Freakonomics Radio, the podcast
+
+44
+ --> 
+that explores the hidden side of everything.
+
+45
+ --> 
+Here’s your host, Stephen Dubner.
+
+46
+ --> 
+DUBNER: Today, the second episode of our two-part podcast, “You Eat What You Are.”
+
+47
+ --> 
+Last time out, we heard from the food-obsessed economist Tyler Cowen.
+
+48
+ --> 
+Tyler COWEN: There’s another kind of food snob
+
+49
+ --> 
+where everything has to be like a farmer’s market,
+
+50
+ --> 
+everything has to be sustainable,
+
+51
+ --> 
+everything has to be in some way modest or geared down, or hippie-like.
+
+52
+ --> 
+DUBNER: And from food-philosophers Michael Pollan and Alice Waters:
+
+53
+ --> 
+Michael POLLAN: You know,
+
+54
+ --> 
+one of the things we need to do in this country is raise the prestige of farming,
+
+55
+ --> 
+and recognize the work that good farmers do,
+
+56
+ --> 
+which is really important to us.
+
+57
+ --> 
+We depend on them, and yet they’re for most of us totally anonymous.
+
+58
+ --> 
+Alice WATERS: I do really believe that...
+
+59
+ --> 
+I think that the work of the farmer,
+
+60
+ --> 
+it needs to be elevated to a very important and vital place.
+
+61
+ --> 
+DUBNER: And so, today, we try to find out:
+
+62
+ --> 
+is going local the way to go?
+
+63
+ --> 
+That’s why we’re starting in Santa Barbara County,
+
+64
+ --> 
+which, it turns out, is a pretty good microcosm for just how complicated—
+
+65
+ --> 
+or just how messed-up—our food network is.
+
+66
+ --> 
+Here you’ve got a place
+
+67
+ --> 
+that grows more than a billion dollars worth of food a year
+
+68
+ --> 
+but, as you just heard, when transportation is cut off for a week,
+
+69
+ --> 
+the produce sections at grocery stores start to empty out.
+
+70
+ --> 
+Isn’t that bizarre? You’d think, with all that local produce,
+
+71
+ --> 
+that Santa Barbara would be the epicenter of the local-food movement.
+
+72
+ --> 
+So what’s going on here?
+
+73
+ --> 
+David Cleveland, the U.C. Santa Barbara professor, he decided to find out.
+
+74
+ --> 
+CLEVELAND: Time Magazine, I think it was four or five years ago,
+
+75
+ --> 
+the cover of Time Magazine was “Local the New Organic,” and you know,
+
+76
+ --> 
+that kind of…One of my students brought that in
+
+77
+ --> 
+and said hey have you seen this, and I said no I haven’t seen that.
+
+78
+ --> 
+Because I had been teaching a class
+
+79
+ --> 
+on rural agriculture for last ten or fifteen years at UCSB,
+
+80
+ --> 
+and localization hasn’t been an explicit part of what we talked about.
+
+81
+ --> 
+And you know, I just realized
+
+82
+ --> 
+that this was being promoted as a remedy for a lot of the problems
+
+83
+ --> 
+that people, many people saw with the mainstream food system.
+
+84
+ --> 
+DUBNER: And when you see this being promoted as a remedy,
+
+85
+ --> 
+or maybe even a panacea it sounds like you’re saying, yeah?
+
+86
+ --> 
+CLEVELAND: Uh huh.
+
+87
+ --> 
+DUBNER: And what was your first reaction to that then?
+
+88
+ --> 
+Was it like yeah this is what we need, or, uh oh,
+
+89
+ --> 
+this might not be the right prescription?
+
+90
+ --> 
+Or, I don’t know, maybe a combination?
+
+91
+ --> 
+CLEVELAND: It was a combination because, you know, I have an emotional…
+
+92
+ --> 
+It’s emotionally appealing the idea of yeah local food, going to the farmers’ market,
+
+93
+ --> 
+and you know, all the stuff that goes with that.
+
+94
+ --> 
+And at the same time my academic background was saying well
+
+95
+ --> 
+how do we really know if this is working?
+
+96
+ --> 
+And we’re all familiar with the concept of greenwash and self-delusion,
+
+97
+ --> 
+and you know, misplaced assumptions,
+
+98
+ --> 
+and so I immediately said, well gosh,
+
+99
+ --> 
+I wonder we should really see
+
+100
+ --> 
+how local the Santa Barbara County food system already is,
+
+101
+ --> 
+because we have thriving farmer’s markets,
+
+102
+ --> 
+CSA’s are growing like gangbusters,
+
+103
+ --> 
+and restaurants are advertising their local food,
+
+104
+ --> 
+and the UCSB dining residential dining is a major program to get more local food.
+
+105
+ --> 
+And so I said will gosh let’s just see how local we are.
+
+106
+ --> 
+DUBNER: So how did you come to this? Did you come…Were you interested?
+
+107
+ --> 
+Did you grow up on a farm?
+
+108
+ --> 
+Did you grow up thinking and knowing a lot about agriculture,
+
+109
+ --> 
+or did you come from the environmental side?
+
+110
+ --> 
+Were you an environmentalist
+
+111
+ --> 
+who wanted to get into the science of it?
+
+112
+ --> 
+CLEVELAND: I came from the food side. I think I…
+
+113
+ --> 
+DUBNER: Meaning you eat? Meaning? What does that mean the food side?
+
+114
+ --> 
+CLEVELAND: Meaning I’ve always been interested in food.
+
+115
+ --> 
+It’s always been…My early years were on a farm.
+
+116
+ --> 
+And I’ve always been interested in eating good food.
+
+117
+ --> 
+You know, like a person always reads the labels when they buy stuff.
+
+118
+ --> 
+So that kind of interest.
+
+119
+ --> 
+And I guess that coincided with an interest
+
+120
+ --> 
+in the bigger picture of the environment and population,
+
+121
+ --> 
+and how do we deal with this stuff?
+
+122
+ --> 
+When I did my dissertation research in Ghana, West Africa,
+
+123
+ --> 
+in the northeast part of the county,
+
+124
+ --> 
+it was during one of the major drought periods.
+
+125
+ --> 
+And both years I was there was a major famine.
+
+126
+ --> 
+And I would lie in my little mud hut at night thinking
+
+127
+ --> 
+why are people in this part of the world struggling, working hard,
+
+128
+ --> 
+they’re smart people who work hard all day long
+
+129
+ --> 
+and yet they’re going hungry.
+
+130
+ --> 
+And then there are other people in other parts of the world
+
+131
+ --> 
+who don’t know nearly as much about how to grow food
+
+132
+ --> 
+and don’t work as hard and they have too much food.
+
+133
+ --> 
+And just you know, just thinking about those issues
+
+134
+ --> 
+kind of drove my interest in understanding agri-food systems.
+
+135
+ --> 
+DUBNER: So, David, I’m curious can you just describe kind of,
+
+136
+ --> 
+you know, your drive from home to the university?
+
+137
+ --> 
+What do you pass?
+
+138
+ --> 
+Are you passing strawberry fields and almond groves?
+
+139
+ --> 
+What’s it look like?
+
+140
+ --> 
+CLEVELAND: Well actually I ride my bike to campus.
+
+141
+ --> 
+It’s only about five and half miles,
+
+142
+ --> 
+and I live on the coastal bike path so it’s very nice.
+
+143
+ --> 
+But I pass organic farms on the way.
+
+144
+ --> 
+Actually yesterday when I biked into campus
+
+145
+ --> 
+there were strawberries ripening on their plastic mulch, and fava beans growing.
+
+146
+ --> 
+And I could smell the compost and manure.
+
+147
+ --> 
+DUBNER: So you’re describing
+
+148
+ --> 
+what to me at least over the wire sounds like a locavore nirvana.
+
+149
+ --> 
+You’re talking about these restaurants and
+
+150
+ --> 
+even the university dining hall, you know, advertises its local food.
+
+151
+ --> 
+And you bike to work through the lovely alternatingly sweet and pungent smells
+
+152
+ --> 
+of strawberries and manure.
+
+153
+ --> 
+And so you must be, you know, from what you’re telling me
+
+154
+ --> 
+so far I would think you’re living at like,
+
+155
+ --> 
+you know ground zero locavore central.
+
+156
+ --> 
+Was that your assumption as well?
+
+157
+ --> 
+CLEVELAND: Yeah, yeah, it was like wow, this is so, let’s just see
+
+158
+ --> 
+what we’re really doing because certainly the potential’s there,
+
+159
+ --> 
+because I knew before we started the research that Santa Barbara was producing
+
+160
+ --> 
+somewhere around 2.3 billion pounds of fruits and vegetables a year.
+
+161
+ --> 
+DUBNER: So David Cleveland, along with about 10 students,
+
+162
+ --> 
+worked for a year to track that 2.3 billion pounds of produce –
+
+163
+ --> 
+specifically, to see how much of it was being exported
+
+164
+ --> 
+and how much was being consumed locally:
+
+165
+ --> 
+CLEVELAND: This is what really shocked us, is we found that
+
+166
+ --> 
+when you added up all these different ways
+
+167
+ --> 
+in which locally grown produce got to people in Santa Barbara County
+
+168
+ --> 
+we found that less than five percent of the fruits and vegetables
+
+169
+ --> 
+consumed in Santa Barbara County were actually grown in Santa Barbara County,
+
+170
+ --> 
+and the other ninety-five percent were imported.
+
+171
+ --> 
+DUBNER: It’s hard to even understand how that could come to pass.
+
+172
+ --> 
+I mean, even if one believes in the ultimate efficiency of the most efficient markets—
+
+173
+ --> 
+you’re growing the stuff right there,
+
+174
+ --> 
+and then people are eating it right there,
+
+175
+ --> 
+but the stuff that they’re eating is not the stuff that they’re growing.
+
+176
+ --> 
+I don’t even get it.
+
+177
+ --> 
+CLEVELAND: I don’t either. Yeah, this is something…
+
+178
+ --> 
+I mean, part of it is the way the market is structured.
+
+179
+ --> 
+DUBNER: Now, you’re not an economist,
+
+180
+ --> 
+you’re an environmental scientist correct?
+
+181
+ --> 
+CLEVELAND: No. I’m an anthropologist.
+
+182
+ --> 
+DUBNER: Okay so because you’re not an economist I’m guessing,
+
+183
+ --> 
+and forgive me I really am just guessing,
+
+184
+ --> 
+I’m guessing you’re thinking well
+
+185
+ --> 
+if this is the way the economy works in this case then it’s dumb.
+
+186
+ --> 
+It doesn’t make sense, right, to take food that we grow locally here,
+
+187
+ --> 
+ship it off to a warehouse and then ship it back to here.
+
+188
+ --> 
+So you know what, in some twisted configurations of incentives
+
+189
+ --> 
+that has come to pass, but it’s stupid.
+
+190
+ --> 
+Was that your thought?
+
+191
+ --> 
+CLEVELAND: Yeah, and my thought was that somehow this economic system,
+
+192
+ --> 
+people are being rewarded economically for this kind of behavior one assumes,
+
+193
+ --> 
+but somehow the reward system for economic behavior is totally out of sync
+
+194
+ --> 
+with the reward system for good nutrition, for community, for environment.
+
+195
+ --> 
+There’s this disconnect between economics and the reason that we grow food.
+
+196
+ --> 
+DUBNER: What Cleveland is saying certainly seems to make sense:
+
+197
+ --> 
+that when it comes to food,
+
+198
+ --> 
+the modern economy conspires against three very important factors:
+
+199
+ --> 
+good nutrition, the environment, and community –
+
+200
+ --> 
+meaning local farmers and the people who support them.
+
+201
+ --> 
+But Cleveland’s research was showing something different.
+
+202
+ --> 
+We’ll start with the local farmers.
+
+203
+ --> 
+It looked as if things were working out okay for them –
+
+204
+ --> 
+why else would they sell most of their produce for export,
+
+205
+ --> 
+rather than keep it local? And what about the nutrition?
+
+206
+ --> 
+Here’s another surprising fact that Cleveland found:
+
+207
+ --> 
+a 100% local diet wouldn’t improve nutrition within the county.
+
+208
+ --> 
+Higher income might;
+
+209
+ --> 
+but a dearth of local produce wasn’t the problem.
+
+210
+ --> 
+Still, what about the environment? As David Cleveland puts it:
+
+211
+ --> 
+“Most of what’s grown in Santa Barbara is shipped out.
+
+212
+ --> 
+And most of what’s eaten in Santa Barbara is shipped in.
+
+213
+ --> 
+This seems crazy,” he says. Surely that is crazy, isn’t it?
+
+214
+ --> 
+Coming up: the math behind carbon emissions and local food.
+
+215
+ --> 
+DUBNER: When your eyes saw that number what did you think?
+
+216
+ --> 
+CLEVELAND: We went back and redid our calculations.
+
+217
+ --> 
+DUBNER: And ... is there a moral upside to not eating local food?
+
+218
+ --> 
+Ed GLAESER: I just keep coming back to feeling a certain amount of satisfaction
+
+219
+ --> 
+that I’m eating grapes
+
+220
+ --> 
+that are keeping up the standard of living in Chile.
+
+221
+ --> 
+[UNDERWRITING]
+
+222
+ --> 
+ANNOUNCER: From WNYC and APM, American Public Media,
+
+223
+ --> 
+this is Freakonomics Radio. Here’s your host, Stephen Dubner.
+
+224
+ --> 
+DUBNER: Okay, so David Cleveland,
+
+225
+ --> 
+who teaches environmental studies at the University of California,
+
+226
+ --> 
+Santa Barbara, found
+
+227
+ --> 
+that 95 percent of the produce consumed in Santa Barbara County,
+
+228
+ --> 
+which grows $1.2 billion worth of produce a year, is imported,
+
+229
+ --> 
+some of it from the other side of the world,
+
+230
+ --> 
+whereas 99 percent of the produce grown there is exported.
+
+231
+ --> 
+Now that sounds, on the surface, like an environmental travesty.
+
+232
+ --> 
+So he began looking into those numbers too.
+
+233
+ --> 
+What would happen, for instance, if Santa Barbara County went totally locavore,
+
+234
+ --> 
+if all the produce eaten in Santa Barbara were also grown there?
+
+235
+ --> 
+CLEVELAND: Yeah, we wanted to look at,
+
+236
+ --> 
+at what effect one hundred percent localization of the Santa Barbara County system,
+
+237
+ --> 
+which is a physically, biologically very feasible thing to do because,
+
+238
+ --> 
+you know, we have the land, we’re growing so much, and so forth.
+
+239
+ --> 
+So what if we did one hundred percent localize the system,
+
+240
+ --> 
+what effect would that have on greenhouse gas emissions?
+
+241
+ --> 
+And we found that it wouldn’t make a lot of difference.
+
+242
+ --> 
+Our savings in greenhouse gas emissions per household
+
+243
+ --> 
+as a proportion of the total food system greenhouse gas emissions
+
+244
+ --> 
+was less than one percent.
+
+245
+ --> 
+DUBNER: Wow. When your eyes saw that number what did you think?
+
+246
+ --> 
+CLEVELAND: We went back and redid our calculations.
+
+247
+ --> 
+DUBNER: I don’t blame you. You thought how can this possibly be true?
+
+248
+ --> 
+CLEVELAND: Right, and so, you know,
+
+249
+ --> 
+it wasn’t…We didn’t think it was going to be a huge number,
+
+250
+ --> 
+but we were still a bit surprised that it was less than one percent.
+
+251
+ --> 
+And when you look at that in terms of what the EPA estimated
+
+252
+ --> 
+for example in 2008
+
+253
+ --> 
+for greenhouse gas emissions per person in the United States in 2008,
+
+254
+ --> 
+it’s point one percent.
+
+255
+ --> 
+So, I guess the point that we began to dawn on me and on the others
+
+256
+ --> 
+was that even though our food system accounts
+
+257
+ --> 
+for a huge amount of our impact on the environment,
+
+258
+ --> 
+including greenhouse gas emissions,
+
+259
+ --> 
+and localization is being promoted
+
+260
+ --> 
+as a major cure to all that’s wrong with our current food system,
+
+261
+ --> 
+in terms of one of the focal impacts it doesn’t necessarily have a great deal of effect.
+
+262
+ --> 
+DUBNER: How can this be?
+
+263
+ --> 
+As Cleveland says, producing food requires a lot of energy.
+
+264
+ --> 
+So wouldn’t it make sense that we could use a lot less energy
+
+265
+ --> 
+by transporting food shorter distances?
+
+266
+ --> 
+Christopher WEBER: Well, I mean, the take home message that we learned is
+
+267
+ --> 
+that basically transportation is really only about seven percent of the greenhouse gas footprint
+
+268
+ --> 
+associated with the overall average American diet.
+
+269
+ --> 
+DUBNER: That’s Christopher Weber, he’s a researcher
+
+270
+ --> 
+at the Science and Technology Policy Institute in Washington.
+
+271
+ --> 
+Back in 2008, he and a colleague, H. Scott Matthews, analyzed the U.S. food network
+
+272
+ --> 
+and found that the energy used in the transportation of food
+
+273
+ --> 
+represents a relatively trivial amount of the overall energy used.
+
+274
+ --> 
+Their paper made a bit of noise.
+
+275
+ --> 
+DUBNER: So this paper that you wrote, I understand
+
+276
+ --> 
+that you’ve said no matter what you do…
+
+277
+ --> 
+You’re a young guy, right you’re in your early…
+
+278
+ --> 
+WEBER: Relatively, sure.
+
+279
+ --> 
+DUBNER: Early thirties maybe, mid thirties?
+
+280
+ --> 
+WEBER: Yeah. Yeah.
+
+281
+ --> 
+DUBNER: Okay, and so you’ve got a long career ahead of you,
+
+282
+ --> 
+and I’ve heard you say no matter what you do,
+
+283
+ --> 
+unless maybe barring a Nobel or Pulitzer Prize
+
+284
+ --> 
+that what’s going to be on your gravestone is this paper
+
+285
+ --> 
+that you wrote as your graduate thesis, yes?
+
+286
+ --> 
+WEBER: Yeah, it certainly seems that way.
+
+287
+ --> 
+DUBNER: One person
+
+288
+ --> 
+who found the Weber-Matthews research interesting was Ed Glaeser.
+
+289
+ --> 
+He’s an economist at Harvard
+
+290
+ --> 
+who spends a lot of time thinking about where and how people live:
+
+291
+ --> 
+urban density vs. suburban sprawl, things like that.
+
+292
+ --> 
+GLAESER: There’s a 2008 article by Weber and Matthews
+
+293
+ --> 
+who actually go through the various environmental costs involved in food production,
+
+294
+ --> 
+particularly carbon dioxide emissions.
+
+295
+ --> 
+And they found that there’s about 8.9 tons of carbon dioxide per household per year
+
+296
+ --> 
+from food consumption in the United States.
+
+297
+ --> 
+Out of that 8.9 tons only 0.4 tons, so about five percent,
+
+298
+ --> 
+less than five percent came from food delivery to you.
+
+299
+ --> 
+And all agricultural transportation up and down the food chain
+
+300
+ --> 
+that delivers only about one ton of carbon dioxide per household annually.
+
+301
+ --> 
+So there’s a lot of carbon emissions involved in food,
+
+302
+ --> 
+but you want to think about it as being in the very heart of food production
+
+303
+ --> 
+which is going to go on wherever you eat it or not.
+
+304
+ --> 
+And there you’re going to, you know,
+
+305
+ --> 
+you will make choices about what you’re eating.
+
+306
+ --> 
+And obviously animals tend to be more energy intensive than grains for example.
+
+307
+ --> 
+Those choices are going to matter a lot more
+
+308
+ --> 
+as to whether the food is shipped long distances
+
+309
+ --> 
+because it just doesn’t require that much energy to ship food fairly long distances in this world.
+
+310
+ --> 
+DUBNER: So in keeping with that argument,
+
+311
+ --> 
+the idea is that a bigger farm, whether it’s a sheep farm or a produce farm,
+
+312
+ --> 
+is going to be more efficient in its production per pound of food,
+
+313
+ --> 
+let’s say, than a smaller local farm,
+
+314
+ --> 
+in that the transportation is just not a big enough piece of the equation to really tip the scale?
+
+315
+ --> 
+GLAESER: That’s the usual argument. I find it fairly compelling.
+
+316
+ --> 
+The second argument that’s made,
+
+317
+ --> 
+and this has been particularly done comparing food production in England with other areas,
+
+318
+ --> 
+so English researchers
+
+319
+ --> 
+for some reason have been particularly aggressive on this.
+
+320
+ --> 
+But food production in the U.K.,
+
+321
+ --> 
+and I think it must be the same thing in New England
+
+322
+ --> 
+for our climate isn’t that different,
+
+323
+ --> 
+finds that the greenhouse gas emissions involved in eating English tomatoes a
+
+324
+ --> 
+re about three times as high as eating Spanish tomatoes
+
+325
+ --> 
+because you require hothouses to grow these things, and, you know,
+
+326
+ --> 
+you just have a better climate for food production.
+
+327
+ --> 
+So, at the heart of economics, right,
+
+328
+ --> 
+is this notion of comparative advantage.
+
+329
+ --> 
+And if you think about David Ricardo two hundred years ago talking about
+
+330
+ --> 
+what a great thing it is that the English could export textiles
+
+331
+ --> 
+and import wine from Portugal,
+
+332
+ --> 
+when you’re giving up on the global system of trade,
+
+333
+ --> 
+you’re giving up all of that.
+
+334
+ --> 
+And that’s not just about economic productivity,
+
+335
+ --> 
+it’s also about energy intensivity, because the places
+
+336
+ --> 
+that are naturally productive at growing food
+
+337
+ --> 
+are also places where you can do it with less artificial energy,
+
+338
+ --> 
+with less artificial water and so forth.
+
+339
+ --> 
+DUBNER: Now, let’s say I believe you,
+
+340
+ --> 
+and I have no reason not to believe you. In fact, I do believe you.
+
+341
+ --> 
+But, it seems as though there’s a certain,
+
+342
+ --> 
+maybe it’s a pretty small quadrant of our population,
+
+343
+ --> 
+but they’re pretty noisy,
+
+344
+ --> 
+who just seem to make a very compelling argument
+
+345
+ --> 
+that it’s just a bad idea to live in a world
+
+346
+ --> 
+where we’re shipping food from across the planet to eat here,
+
+347
+ --> 
+that we should be better than that. Maybe…
+
+348
+ --> 
+You know, so I guess what I’m saying is I hear your economist argument,
+
+349
+ --> 
+but then I think from my personal moral perspective,
+
+350
+ --> 
+I don’t want to do that. I don’t like the idea.
+
+351
+ --> 
+I don’t like the idea of a big sheep farm in New Zealand,
+
+352
+ --> 
+or a big grape produce farm in Chile bundling up all these tons,
+
+353
+ --> 
+and tons, and tons of stuff, putting it on a big ship,
+
+354
+ --> 
+getting it all the way over to me,
+
+355
+ --> 
+and then it trucks to my supermarket or my market and I buy it there.
+
+356
+ --> 
+I just don’t…I hate that idea.
+
+357
+ --> 
+Why is there more hatred for food
+
+358
+ --> 
+and the complexity of the production and transportation of food
+
+359
+ --> 
+than there is for let’s say a t-shirt or an iPad?
+
+360
+ --> 
+GLAESER: Well, food is so personal, right?
+
+361
+ --> 
+I mean, it is our most basic of needs, right?
+
+362
+ --> 
+And the idea of something wrong being with our food
+
+363
+ --> 
+cuts to the very heart of our stomachs, of our souls almost.
+
+364
+ --> 
+So it’s not so surprising that people have these deep emotional reactions to food.
+
+365
+ --> 
+And we certainly are right to worry a lot about
+
+366
+ --> 
+whether or not our food is fresh, and good, and tasty.
+
+367
+ --> 
+But I just keep coming back to feeling a certain amount of satisfaction
+
+368
+ --> 
+that I’m eating grapes
+
+369
+ --> 
+that are keeping up the standard of living in Chile.
+
+370
+ --> 
+DUBNER: Let me ask you this, Ed,
+
+371
+ --> 
+you wrote a little bit about Michelle Obama’s garden at the White House
+
+372
+ --> 
+and her pretty constant efforts to talk about the value of nutrition generally,
+
+373
+ --> 
+but also local agriculture.
+
+374
+ --> 
+And you wrote this, “If the First Lady wants to help the environment
+
+375
+ --> 
+she should campaign for high-rise apartments rather than plant vegetables.”
+
+376
+ --> 
+Ouch, first of all, but explain.
+
+377
+ --> 
+GLAESER: Well I certainly meant no disrespect for the First Lady.
+
+378
+ --> 
+DUBNER: I’m sure.
+
+379
+ --> 
+GLAESER: But local gardens are unlikely to be any particularly great environmental benefit.
+
+380
+ --> 
+And one way to think about this is
+
+381
+ --> 
+it really is much more energy efficient to move food rather than moving people.
+
+382
+ --> 
+Any time we put space between us as human beings
+
+383
+ --> 
+we are increasing our own difficulties in transportation,
+
+384
+ --> 
+any time we build at lower densities, meaning we are driving longer distances.
+
+385
+ --> 
+And that’s a tremendous potential environmental cost,
+
+386
+ --> 
+whereas moving the food around is just a very small cost relative to that.
+
+387
+ --> 
+So, I think really if we want to be focused on how we live
+
+388
+ --> 
+and how it impacts our environmental footprints
+
+389
+ --> 
+we really do want to be thinking about
+
+390
+ --> 
+how is it that we bring ourselves together,
+
+391
+ --> 
+how is it that we eliminate space between us,
+
+392
+ --> 
+not how is it that we insert extra space that are buffers between humanity.
+
+393
+ --> 
+DUBNER: So, would your view of Michelle Obama’s position
+
+394
+ --> 
+on local agriculture be that, well it’s mostly benign.
+
+395
+ --> 
+She’s preaching that people should have more kind of local gardens
+
+396
+ --> 
+and they may or they may not,
+
+397
+ --> 
+and it really doesn’t make that much of a difference?
+
+398
+ --> 
+Or is your view of her stance that it’s actually not a good stance
+
+399
+ --> 
+because it may be counterproductive as it kind of steals mindshare
+
+400
+ --> 
+for what would be smarter ideas
+
+401
+ --> 
+for how to be more efficient and effective for more people?
+
+402
+ --> 
+GLAESER: I think it’s basically benign.
+
+403
+ --> 
+The truth of the matter is I think she’s really just pushing
+
+404
+ --> 
+for greater awareness of food and greater attention to nutrition.
+
+405
+ --> 
+And that’s basically benign.
+
+406
+ --> 
+What I do wish, is I do wish both her and the president
+
+407
+ --> 
+would actually start talking about the virtues of urban America.
+
+408
+ --> 
+I mean in some sense President Obama is the most urban president
+
+409
+ --> 
+we’ve had since Teddy Roosevelt.
+
+410
+ --> 
+And yet we’ve heard very little about, you know,
+
+411
+ --> 
+how critical America’s cities are to our future.
+
+412
+ --> 
+I mean, the fact that the three largest metropolitan areas in this country
+
+413
+ --> 
+produce eighteen percent of our GDP
+
+414
+ --> 
+while including only thirteen percent of our population.
+
+415
+ --> 
+And they’re also important environmentally, so it’s also a frustration that…
+
+416
+ --> 
+It’s fine for her to grow gardens
+
+417
+ --> 
+but I would love it if we just heard a strong message about
+
+418
+ --> 
+what a great thing living in dense areas,
+
+419
+ --> 
+living in high-rise apartments can also be for the environment.
+
+420
+ --> 
+And indeed, we’re far more likely to get significant environmental benefits from those
+
+421
+ --> 
+than we are from eating locally or from urban gardens.
+
+422
+ --> 
+DUBNER: At the Union Square Greenmarket, in the heart of New York City,
+
+423
+ --> 
+the idea of buying local is pretty much gospel.
+
+424
+ --> 
+I asked a few people, shoppers and vendors,
+
+425
+ --> 
+to wrap their heads around the notion that going local isn’t saving the world.
+
+426
+ --> 
+KELLY: I would find that really hard to believe...
+
+427
+ --> 
+EDLAND: I may not one hundred percent be able to argue against that,
+
+428
+ --> 
+but what I will argue for is why not buy it if it is grown nearby?
+
+429
+ --> 
+RUBY: For me, smaller is better, for me, local is better.
+
+430
+ --> 
+DUBNER: The responses were interesting and diverse:
+
+431
+ --> 
+some denial, some rationalization, some switching over to the other ways
+
+432
+ --> 
+in which local food is superior, like, it tastes better.
+
+433
+ --> 
+When you make decisions about something as important as the environment —
+
+434
+ --> 
+and as personal, as emotionally charged as food—
+
+435
+ --> 
+it’s hard to hear that the factual foundation of your decision is a bit wobbly.
+
+436
+ --> 
+It can be easier just to stick to your beliefs,
+
+437
+ --> 
+your intuitive beliefs,
+
+438
+ --> 
+than it is to deal with the weird complexities of the modern world.
+
+439
+ --> 
+But here’s one piece of good news.
+
+440
+ --> 
+That research paper by Christopher Weber about food miles,
+
+441
+ --> 
+it didn’t stop there.
+
+442
+ --> 
+WEBER: There are a few types of food
+
+443
+ --> 
+that are very greenhouse-gas-intensive, per calorie, per kilogram,
+
+444
+ --> 
+per however you want to measure them,
+
+445
+ --> 
+and red meat and dairy are the especially bad players here.
+
+446
+ --> 
+And if you are the average consumer,
+
+447
+ --> 
+and again we were always looking at the average consumer,
+
+448
+ --> 
+one of the big, you know, take home messages
+
+449
+ --> 
+that we tried to get out to people is that you can do more for your carbon footprint
+
+450
+ --> 
+by just cutting those two things out of your diet for one day a week
+
+451
+ --> 
+than you can by buying every single thing locally all the time.
+
+452
+ --> 
+DUBNER: So there you go.
+
+453
+ --> 
+If you really want to help the environment lay off cow products.
+
+454
+ --> 
+The cow is particularly greenhouse-gas-intensive in part because,
+
+455
+ --> 
+like all ruminants, it naturally emits methane—
+
+456
+ --> 
+its manure, its exhalation, its farts.
+
+457
+ --> 
+And methane is more than 20 times more potent a greenhouse gas than carbon dioxide.
+
+458
+ --> 
+What’s that, you say? You can’t imagine cutting back on burgers?
+
+459
+ --> 
+Well, perhaps you’d consider a substitute.
+
+460
+ --> 
+The kangaroo, for instance, doesn’t emit methane. Its meat?
+
+461
+ --> 
+A little rubbery but tasty. So if you really want to help,
+
+462
+ --> 
+what you’ve got to do is learn to love the ‘roo.
+
+463
+ --> 00:28:53,500
+
+
