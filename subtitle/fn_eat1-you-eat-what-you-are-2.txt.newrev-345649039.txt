@@ -867,39 +867,39 @@ CLEVELAND: We went back and redid our calculations.
 DUBNER: And ... is there a moral upside to not eating local food?
 
 218
-00:13:31,750 --> 
+00:13:31,750 --> 00:13:35,000
 Ed GLAESER: I just keep coming back to feeling a certain amount of satisfaction
 
 219
- --> 
+00:13:35,000 --> 00:13:36,000
 that I’m eating grapes
 
 220
- --> 
+00:13:36,000 --> 00:13:38,250
 that are keeping up the standard of living in Chile.
 
 221
- --> 
+00:13:38,250 --> 00:14:09,750
 [UNDERWRITING]
 
 222
- --> 
+00:14:09,750 --> 00:14:14,250
 ANNOUNCER: From WNYC and APM, American Public Media,
 
 223
- --> 
+00:14:14,250 --> 00:14:18,500
 this is Freakonomics Radio. Here’s your host, Stephen Dubner.
 
 224
- --> 
+00:14:18,500 --> 00:14:21,000
 DUBNER: Okay, so David Cleveland,
 
 225
- --> 
+00:14:21,000 --> 00:14:24,250
 who teaches environmental studies at the University of California,
 
 226
- --> 
+00:14:24,250 --> 
 Santa Barbara, found
 
 227
