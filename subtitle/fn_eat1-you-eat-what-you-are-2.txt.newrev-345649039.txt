@@ -943,51 +943,51 @@ CLEVELAND: Yeah, we wanted to look at,
 at what effect one hundred percent localization of the Santa Barbara County system,
 
 237
-00:15:07,250 --> 00:15:12,500
+00:15:07,250 --> 00:15:12,250
 which is a physically, biologically very feasible thing to do because,
 
 238
-00:15:12,500 --> 
+00:15:12,250 --> 00:15:16,000
 you know, we have the land, we’re growing so much, and so forth.
 
 239
- --> 
+00:15:16,000 --> 00:15:19,250
 So what if we did one hundred percent localize the system,
 
 240
- --> 
+00:15:19,250 --> 00:15:22,750
 what effect would that have on greenhouse gas emissions?
 
 241
- --> 
+00:15:22,750 --> 00:15:25,500
 And we found that it wouldn’t make a lot of difference.
 
 242
- --> 
+00:15:25,500 --> 00:15:29,000
 Our savings in greenhouse gas emissions per household
 
 243
- --> 
+00:15:29,000 --> 00:15:33,250
 as a proportion of the total food system greenhouse gas emissions
 
 244
- --> 
+00:15:33,250 --> 00:15:35,250
 was less than one percent.
 
 245
- --> 
+00:15:35,250 --> 00:15:40,000
 DUBNER: Wow. When your eyes saw that number what did you think?
 
 246
- --> 
+00:15:40,000 --> 00:15:43,000
 CLEVELAND: We went back and redid our calculations.
 
 247
- --> 
+00:15:43,000 --> 00:15:46,750
 DUBNER: I don’t blame you. You thought how can this possibly be true?
 
 248
- --> 
+00:15:46,750 --> 
 CLEVELAND: Right, and so, you know,
 
 249
