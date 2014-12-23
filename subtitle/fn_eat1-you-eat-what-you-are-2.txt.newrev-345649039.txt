@@ -1755,55 +1755,55 @@ than it is to deal with the weird complexities of the modern world.
 But here’s one piece of good news.
 
 440
-00:26:25,000 --> 
+00:26:25,000 --> 00:26:29,250
 That research paper by Christopher Weber about food miles,
 
 441
- --> 
+00:26:29,250 --> 00:26:32,750
 it didn’t stop there.
 
 442
- --> 
+00:26:32,750 --> 00:26:35,250
 WEBER: There are a few types of food
 
 443
- --> 
+00:26:35,250 --> 00:26:39,750
 that are very greenhouse-gas-intensive, per calorie, per kilogram,
 
 444
- --> 
+00:26:39,750 --> 00:26:42,000
 per however you want to measure them,
 
 445
- --> 
+00:26:42,000 --> 00:26:46,500
 and red meat and dairy are the especially bad players here.
 
 446
- --> 
+00:26:46,500 --> 00:26:49,500
 And if you are the average consumer,
 
 447
- --> 
+00:26:49,500 --> 00:26:51,750
 and again we were always looking at the average consumer,
 
 448
- --> 
+00:26:51,750 --> 00:26:53,750
 one of the big, you know, take home messages
 
 449
- --> 
+00:26:53,750 --> 00:26:58,750
 that we tried to get out to people is that you can do more for your carbon footprint
 
 450
- --> 
+00:26:58,750 --> 00:27:03,250
 by just cutting those two things out of your diet for one day a week
 
 451
- --> 
+00:27:03,250 --> 00:27:10,250
 than you can by buying every single thing locally all the time.
 
 452
- --> 
+00:27:10,250 --> 
 DUBNER: So there you go.
 
 453
