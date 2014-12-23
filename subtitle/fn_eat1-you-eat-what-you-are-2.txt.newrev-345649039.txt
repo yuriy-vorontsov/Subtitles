@@ -1203,67 +1203,67 @@ that delivers only about one ton of carbon dioxide per household annually.
 So there’s a lot of carbon emissions involved in food,
 
 302
-00:19:05,000 --> 00:19:08,500
+00:19:05,000 --> 00:19:07,750
 but you want to think about it as being in the very heart of food production
 
 303
-00:19:08,500 --> 
+00:19:07,750 --> 00:19:10,500
 which is going to go on wherever you eat it or not.
 
 304
- --> 
+00:19:10,500 --> 00:19:12,000
 And there you’re going to, you know,
 
 305
- --> 
+00:19:12,000 --> 00:19:13,750
 you will make choices about what you’re eating.
 
 306
- --> 
+00:19:13,750 --> 00:19:19,000
 And obviously animals tend to be more energy intensive than grains for example.
 
 307
- --> 
+00:19:19,000 --> 00:19:22,250
 Those choices are going to matter a lot more
 
 308
- --> 
+00:19:22,250 --> 00:19:24,500
 as to whether the food is shipped long distances
 
 309
- --> 
+00:19:24,500 --> 00:19:28,750
 because it just doesn’t require that much energy to ship food fairly long distances in this world.
 
 310
- --> 
+00:19:28,750 --> 00:19:30,250
 DUBNER: So in keeping with that argument,
 
 311
- --> 
+00:19:30,250 --> 00:19:35,000
 the idea is that a bigger farm, whether it’s a sheep farm or a produce farm,
 
 312
- --> 
+00:19:35,000 --> 00:19:40,250
 is going to be more efficient in its production per pound of food,
 
 313
- --> 
+00:19:40,250 --> 00:19:42,250
 let’s say, than a smaller local farm,
 
 314
- --> 
+00:19:42,250 --> 00:19:46,250
 in that the transportation is just not a big enough piece of the equation to really tip the scale?
 
 315
- --> 
+00:19:46,250 --> 00:19:50,000
 GLAESER: That’s the usual argument. I find it fairly compelling.
 
 316
- --> 
+00:19:50,000 --> 00:19:51,250
 The second argument that’s made,
 
 317
- --> 
+00:19:51,250 --> 
 and this has been particularly done comparing food production in England with other areas,
 
 318
