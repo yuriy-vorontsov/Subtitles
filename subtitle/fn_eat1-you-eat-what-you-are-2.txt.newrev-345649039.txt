@@ -819,55 +819,55 @@ why else would they sell most of their produce for export,
 rather than keep it local? And what about the nutrition?
 
 206
-00:12:34,500 --> 
+00:12:34,500 --> 00:12:37,500
 Here’s another surprising fact that Cleveland found:
 
 207
- --> 
+00:12:37,500 --> 00:12:43,750
 a 100% local diet wouldn’t improve nutrition within the county.
 
 208
- --> 
+00:12:43,750 --> 00:12:45,250
 Higher income might;
 
 209
- --> 
+00:12:45,250 --> 00:12:51,250
 but a dearth of local produce wasn’t the problem.
 
 210
- --> 
+00:12:51,250 --> 00:12:56,000
 Still, what about the environment? As David Cleveland puts it:
 
 211
- --> 
+00:12:56,000 --> 00:12:59,250
 “Most of what’s grown in Santa Barbara is shipped out.
 
 212
- --> 
+00:12:59,250 --> 00:13:01,750
 And most of what’s eaten in Santa Barbara is shipped in.
 
 213
- --> 
+00:13:01,750 --> 00:13:11,500
 This seems crazy,” he says. Surely that is crazy, isn’t it?
 
 214
- --> 
+00:13:11,500 --> 00:13:17,500
 Coming up: the math behind carbon emissions and local food.
 
 215
- --> 
+00:13:17,500 --> 00:13:21,750
 DUBNER: When your eyes saw that number what did you think?
 
 216
- --> 
+00:13:21,750 --> 00:13:25,000
 CLEVELAND: We went back and redid our calculations.
 
 217
- --> 
+00:13:25,000 --> 00:13:31,750
 DUBNER: And ... is there a moral upside to not eating local food?
 
 218
- --> 
+00:13:31,750 --> 
 Ed GLAESER: I just keep coming back to feeling a certain amount of satisfaction
 
 219
