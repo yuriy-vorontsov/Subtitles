@@ -1711,51 +1711,51 @@ EDLAND: I may not one hundred percent be able to argue against that,
 but what I will argue for is why not buy it if it is grown nearby?
 
 429
-00:25:38,000 --> 
+00:25:38,000 --> 00:25:43,000
 RUBY: For me, smaller is better, for me, local is better.
 
 430
- --> 
+00:25:43,000 --> 00:25:47,000
 DUBNER: The responses were interesting and diverse:
 
 431
- --> 
+00:25:47,000 --> 00:25:53,500
 some denial, some rationalization, some switching over to the other ways
 
 432
- --> 
+00:25:53,500 --> 00:25:57,000
 in which local food is superior, like, it tastes better.
 
 433
- --> 
+00:25:57,000 --> 00:26:02,250
 When you make decisions about something as important as the environment —
 
 434
- --> 
+00:26:02,250 --> 00:26:06,250
 and as personal, as emotionally charged as food—
 
 435
- --> 
+00:26:06,250 --> 00:26:12,750
 it’s hard to hear that the factual foundation of your decision is a bit wobbly.
 
 436
- --> 
+00:26:12,750 --> 00:26:15,000
 It can be easier just to stick to your beliefs,
 
 437
- --> 
+00:26:15,000 --> 00:26:16,500
 your intuitive beliefs,
 
 438
- --> 
+00:26:16,500 --> 00:26:23,000
 than it is to deal with the weird complexities of the modern world.
 
 439
- --> 
+00:26:23,000 --> 00:26:25,000
 But here’s one piece of good news.
 
 440
- --> 
+00:26:25,000 --> 
 That research paper by Christopher Weber about food miles,
 
 441
