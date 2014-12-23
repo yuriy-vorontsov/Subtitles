@@ -1147,67 +1147,67 @@ WEBER: Yeah, it certainly seems that way.
 DUBNER: One person
 
 288
-00:18:12,500 --> 
+00:18:12,500 --> 00:18:16,750
 who found the Weber-Matthews research interesting was Ed Glaeser.
 
 289
- --> 
+00:18:16,750 --> 00:18:18,500
 He’s an economist at Harvard
 
 290
- --> 
+00:18:18,500 --> 00:18:23,000
 who spends a lot of time thinking about where and how people live:
 
 291
- --> 
+00:18:23,000 --> 00:18:27,000
 urban density vs. suburban sprawl, things like that.
 
 292
- --> 
+00:18:27,000 --> 00:18:29,750
 GLAESER: There’s a 2008 article by Weber and Matthews
 
 293
- --> 
+00:18:29,750 --> 00:18:34,500
 who actually go through the various environmental costs involved in food production,
 
 294
- --> 
+00:18:34,500 --> 00:18:36,250
 particularly carbon dioxide emissions.
 
 295
- --> 
+00:18:36,250 --> 00:18:42,500
 And they found that there’s about 8.9 tons of carbon dioxide per household per year
 
 296
- --> 
+00:18:42,500 --> 00:18:44,750
 from food consumption in the United States.
 
 297
- --> 
+00:18:44,750 --> 00:18:50,750
 Out of that 8.9 tons only 0.4 tons, so about five percent,
 
 298
- --> 
+00:18:50,750 --> 00:18:55,250
 less than five percent came from food delivery to you.
 
 299
- --> 
+00:18:55,250 --> 00:18:58,250
 And all agricultural transportation up and down the food chain
 
 300
- --> 
+00:18:58,250 --> 00:19:01,750
 that delivers only about one ton of carbon dioxide per household annually.
 
 301
- --> 
+00:19:01,750 --> 00:19:05,000
 So there’s a lot of carbon emissions involved in food,
 
 302
- --> 
+00:19:05,000 --> 00:19:08,500
 but you want to think about it as being in the very heart of food production
 
 303
- --> 
+00:19:08,500 --> 
 which is going to go on wherever you eat it or not.
 
 304
