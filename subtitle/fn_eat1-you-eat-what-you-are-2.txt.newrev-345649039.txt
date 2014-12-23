@@ -1495,43 +1495,43 @@ but also local agriculture.
 And you wrote this, “If the First Lady wants to help the environment
 
 375
-00:22:40,750 --> 
+00:22:40,750 --> 00:22:46,250
 she should campaign for high-rise apartments rather than plant vegetables.”
 
 376
- --> 
+00:22:46,250 --> 00:22:49,750
 Ouch, first of all, but explain.
 
 377
- --> 
+00:22:49,750 --> 00:22:53,500
 GLAESER: Well I certainly meant no disrespect for the First Lady.
 
 378
- --> 
+00:22:53,500 --> 00:22:53,500
 DUBNER: I’m sure.
 
 379
- --> 
+00:22:53,500 --> 00:22:59,500
 GLAESER: But local gardens are unlikely to be any particularly great environmental benefit.
 
 380
- --> 
+00:22:59,500 --> 00:23:01,250
 And one way to think about this is
 
 381
- --> 
+00:23:01,250 --> 00:23:07,250
 it really is much more energy efficient to move food rather than moving people.
 
 382
- --> 
+00:23:07,250 --> 00:23:10,750
 Any time we put space between us as human beings
 
 383
- --> 
+00:23:10,750 --> 00:23:14,000
 we are increasing our own difficulties in transportation,
 
 384
- --> 
+00:23:14,000 --> 
 any time we build at lower densities, meaning we are driving longer distances.
 
 385
