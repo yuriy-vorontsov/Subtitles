@@ -1039,51 +1039,51 @@ and localization is being promoted
 as a major cure to all that’s wrong with our current food system,
 
 261
-00:16:28,750 --> 00:16:38,500
+00:16:28,750 --> 00:16:44,500
 in terms of one of the focal impacts it doesn’t necessarily have a great deal of effect.
 
 262
-00:16:38,500 --> 
+00:16:44,500 --> 00:16:46,250
 DUBNER: How can this be?
 
 263
- --> 
+00:16:46,250 --> 00:16:50,750
 As Cleveland says, producing food requires a lot of energy.
 
 264
- --> 
+00:16:50,750 --> 00:16:54,000
 So wouldn’t it make sense that we could use a lot less energy
 
 265
- --> 
+00:16:54,000 --> 00:16:57,250
 by transporting food shorter distances?
 
 266
- --> 
+00:16:57,250 --> 00:17:00,500
 Christopher WEBER: Well, I mean, the take home message that we learned is
 
 267
- --> 
+00:17:00,500 --> 00:17:05,750
 that basically transportation is really only about seven percent of the greenhouse gas footprint
 
 268
- --> 
+00:17:05,750 --> 00:17:09,250
 associated with the overall average American diet.
 
 269
- --> 
+00:17:09,250 --> 00:17:12,250
 DUBNER: That’s Christopher Weber, he’s a researcher
 
 270
- --> 
+00:17:12,250 --> 00:17:15,250
 at the Science and Technology Policy Institute in Washington.
 
 271
- --> 
+00:17:15,250 --> 00:17:22,000
 Back in 2008, he and a colleague, H. Scott Matthews, analyzed the U.S. food network
 
 272
- --> 
+00:17:22,000 --> 
 and found that the energy used in the transportation of food
 
 273
