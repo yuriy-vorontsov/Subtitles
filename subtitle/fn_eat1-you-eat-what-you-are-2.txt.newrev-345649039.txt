@@ -895,31 +895,31 @@ this is Freakonomics Radio. Here’s your host, Stephen Dubner.
 DUBNER: Okay, so David Cleveland,
 
 225
-00:14:21,000 --> 00:14:24,250
-who teaches environmental studies at the University of California,
+00:14:21,000 --> 00:14:22,750
+who teaches environmental studies 
 
 226
-00:14:24,250 --> 
-Santa Barbara, found
+00:14:22,750 --> 00:14:25,750
+at the University of California, Santa Barbara, found
 
 227
- --> 
+00:14:25,750 --> 00:14:30,000
 that 95 percent of the produce consumed in Santa Barbara County,
 
 228
- --> 
+00:14:30,000 --> 00:14:35,250
 which grows $1.2 billion worth of produce a year, is imported,
 
 229
- --> 
+00:14:35,250 --> 00:14:37,500
 some of it from the other side of the world,
 
 230
- --> 
+00:14:37,500 --> 00:14:42,000
 whereas 99 percent of the produce grown there is exported.
 
 231
- --> 
+00:14:42,000 --> 
 Now that sounds, on the surface, like an environmental travesty.
 
 232
