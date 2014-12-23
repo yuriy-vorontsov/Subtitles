@@ -1263,36 +1263,36 @@ GLAESER: That’s the usual argument. I find it fairly compelling.
 The second argument that’s made,
 
 317
-00:19:51,250 --> 
+00:19:51,250 --> 00:19:56,000
 and this has been particularly done comparing food production in England with other areas,
 
 318
- --> 
+00:19:56,000 --> 00:19:57,250
 so English researchers
 
 319
- --> 
+00:19:57,250 --> 00:20:01,000
 for some reason have been particularly aggressive on this.
 
 320
- --> 
+00:20:01,000 --> 00:20:02,750
 But food production in the U.K.,
 
 321
- --> 
+00:20:02,750 --> 00:20:05,000
 and I think it must be the same thing in New England
 
 322
- --> 
+00:20:05,000 --> 00:20:07,000
 for our climate isn’t that different,
 
 323
- --> 
-finds that the greenhouse gas emissions involved in eating English tomatoes a
+00:20:07,000 --> 00:20:10,750
+finds that the greenhouse gas emissions involved in eating English tomatoes
 
 324
- --> 
-re about three times as high as eating Spanish tomatoes
+00:20:10,750 --> 
+are about three times as high as eating Spanish tomatoes
 
 325
  --> 
