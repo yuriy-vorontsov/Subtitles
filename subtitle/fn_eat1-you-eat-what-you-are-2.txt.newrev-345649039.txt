@@ -987,63 +987,63 @@ CLEVELAND: We went back and redid our calculations.
 DUBNER: I don’t blame you. You thought how can this possibly be true?
 
 248
-00:15:46,750 --> 
+00:15:46,750 --> 00:15:51,500
 CLEVELAND: Right, and so, you know,
 
 249
- --> 
+00:15:51,500 --> 00:15:51,750
 it wasn’t…We didn’t think it was going to be a huge number,
 
 250
- --> 
+00:15:51,750 --> 00:15:55,750
 but we were still a bit surprised that it was less than one percent.
 
 251
- --> 
+00:15:55,750 --> 00:15:59,000
 And when you look at that in terms of what the EPA estimated
 
 252
- --> 
+00:15:59,000 --> 00:16:00,750
 for example in 2008
 
 253
- --> 
+00:16:00,750 --> 00:16:06,250
 for greenhouse gas emissions per person in the United States in 2008,
 
 254
- --> 
+00:16:06,250 --> 00:16:07,750
 it’s point one percent.
 
 255
- --> 
+00:16:07,750 --> 00:16:14,250
 So, I guess the point that we began to dawn on me and on the others
 
 256
- --> 
+00:16:14,250 --> 00:16:17,750
 was that even though our food system accounts
 
 257
- --> 
+00:16:17,750 --> 00:16:21,000
 for a huge amount of our impact on the environment,
 
 258
- --> 
+00:16:21,000 --> 00:16:23,000
 including greenhouse gas emissions,
 
 259
- --> 
+00:16:23,000 --> 00:16:24,750
 and localization is being promoted
 
 260
- --> 
+00:16:24,750 --> 00:16:28,750
 as a major cure to all that’s wrong with our current food system,
 
 261
- --> 
+00:16:28,750 --> 00:16:38,500
 in terms of one of the focal impacts it doesn’t necessarily have a great deal of effect.
 
 262
- --> 
+00:16:38,500 --> 
 DUBNER: How can this be?
 
 263
