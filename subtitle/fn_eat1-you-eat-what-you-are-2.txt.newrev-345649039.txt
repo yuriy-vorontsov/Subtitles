@@ -1335,47 +1335,47 @@ you’re giving up all of that.
 And that’s not just about economic productivity,
 
 335
-00:20:38,500 --> 
-it’s also about energy intensivity, because the places
+00:20:38,500 --> 00:20:40,250
+it’s also about energy intensivity, 
 
 336
- --> 
-that are naturally productive at growing food
+00:20:40,250 --> 00:20:43,500
+because the places that are naturally productive at growing food
 
 337
- --> 
+00:20:43,500 --> 00:20:46,000
 are also places where you can do it with less artificial energy,
 
 338
- --> 
+00:20:46,000 --> 00:20:47,500
 with less artificial water and so forth.
 
 339
- --> 
+00:20:47,500 --> 00:20:48,750
 DUBNER: Now, let’s say I believe you,
 
 340
- --> 
+00:20:48,750 --> 00:20:52,000
 and I have no reason not to believe you. In fact, I do believe you.
 
 341
- --> 
+00:20:52,000 --> 00:20:55,750
 But, it seems as though there’s a certain,
 
 342
- --> 
+00:20:55,750 --> 00:20:58,000
 maybe it’s a pretty small quadrant of our population,
 
 343
- --> 
+00:20:58,000 --> 00:20:59,000
 but they’re pretty noisy,
 
 344
- --> 
+00:20:59,000 --> 00:21:03,500
 who just seem to make a very compelling argument
 
 345
- --> 
+00:21:03,500 --> 
 that it’s just a bad idea to live in a world
 
 346
