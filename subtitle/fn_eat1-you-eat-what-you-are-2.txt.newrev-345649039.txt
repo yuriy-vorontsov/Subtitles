@@ -1083,71 +1083,71 @@ at the Science and Technology Policy Institute in Washington.
 Back in 2008, he and a colleague, H. Scott Matthews, analyzed the U.S. food network
 
 272
-00:17:22,000 --> 
+00:17:22,000 --> 00:17:26,250
 and found that the energy used in the transportation of food
 
 273
- --> 
+00:17:26,250 --> 00:17:31,250
 represents a relatively trivial amount of the overall energy used.
 
 274
- --> 
+00:17:31,250 --> 00:17:35,500
 Their paper made a bit of noise.
 
 275
- --> 
+00:17:35,500 --> 00:17:41,500
 DUBNER: So this paper that you wrote, I understand
 
 276
- --> 
+00:17:41,500 --> 00:17:43,750
 that you’ve said no matter what you do…
 
 277
- --> 
+00:17:43,750 --> 00:17:48,000
 You’re a young guy, right you’re in your early…
 
 278
- --> 
+00:17:48,000 --> 00:17:48,750
 WEBER: Relatively, sure.
 
 279
- --> 
+00:17:48,750 --> 00:17:50,250
 DUBNER: Early thirties maybe, mid thirties?
 
 280
- --> 
+00:17:50,250 --> 00:17:51,250
 WEBER: Yeah. Yeah.
 
 281
- --> 
+00:17:51,250 --> 00:17:55,250
 DUBNER: Okay, and so you’ve got a long career ahead of you,
 
 282
- --> 
+00:17:55,250 --> 00:17:59,000
 and I’ve heard you say no matter what you do,
 
 283
- --> 
+00:17:59,000 --> 00:18:02,750
 unless maybe barring a Nobel or Pulitzer Prize
 
 284
- --> 
+00:18:02,750 --> 00:18:04,750
 that what’s going to be on your gravestone is this paper
 
 285
- --> 
+00:18:04,750 --> 00:18:06,750
 that you wrote as your graduate thesis, yes?
 
 286
- --> 
+00:18:06,750 --> 00:18:10,500
 WEBER: Yeah, it certainly seems that way.
 
 287
- --> 
+00:18:10,500 --> 00:18:12,500
 DUBNER: One person
 
 288
- --> 
+00:18:12,500 --> 
 who found the Weber-Matthews research interesting was Ed Glaeser.
 
 289
