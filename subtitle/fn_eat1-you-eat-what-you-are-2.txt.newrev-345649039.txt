@@ -67,39 +67,39 @@ about $1.2 billion worth a year.
 Now, imagine for a moment that everything is interrupted by some kind of a natural disaster:
 
 18
-00:01:15,500 --> 
+00:01:15,500 --> 00:01:20,750
 David CLEVELAND: In 2005 there was a mudslide at La Conchita,
 
 19
- --> 
+00:01:20,750 --> 00:01:26,750
 which is a community in the southeastern part of Santa Barbara County, right on the coast.
 
 20
- --> 
+00:01:26,750 --> 00:01:28,250
 DUBNER: That’s David Cleveland.
 
 21
- --> 
+00:01:28,250 --> 00:01:31,750
 He teaches environmental studies at UC Santa Barbara.
 
 22
- --> 
+00:01:31,750 --> 00:01:35,500
 The mudslide he’s talking about killed ten people.
 
 23
- --> 
+00:01:35,500 --> 00:01:39,500
 CLEVELAND: And also blocked off the 101 freeway and the railroad,
 
 24
- --> 
+00:01:39,500 --> 00:01:43,500
 which are the main transportation connections with Los Angeles.
 
 25
- --> 
+00:01:43,500 --> 00:01:47,750
 And these transportation links were closed for at least a week.
 
 26
- --> 
+00:01:47,750 --> 
 DUBNER: So Santa Barbara couldn’t ship its produce down to the distribution centers in L.A.,
 
 27
